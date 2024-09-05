@@ -14,22 +14,22 @@
     "Topics": {
       "Art and Design A-Level Revision": {
         "url": "https://revisionworld.com/a2-level-level-revision/art-level-revision",
-        "slug": "art-and-design-a-level-revision"
+        "slug": "a-level-art-and-design-revision"
       }
     },
     "Subtopics": {
       "Art and Design A-Level Revision": [
         {
           "name": "Art and Design A-Level Past Papers",
-          "slug": "art-and-design-a-level-past-papers"
+          "slug": "a-level-art-and-design-revision-art-and-design-past-papers"
         },
         {
           "name": "Fine Art Movements & Art History",
-          "slug": "fine-art-movements-art-history"
+          "slug": "a-level-art-and-design-revision-fine-art-movements-art-history"
         },
         {
           "name": "Skills & Techniques",
-          "slug": "skills-techniques"
+          "slug": "a-level-art-and-design-revision-skills-techniques"
         }
       ]
     }
@@ -38,74 +38,74 @@
     "Topics": {
       "Biology A-Level Revision": {
         "url": "https://revisionworld.com/a2-level-level-revision/biology-level-revision",
-        "slug": "biology-a-level-revision"
+        "slug": "a-level-biology-revision"
       }
     },
     "Subtopics": {
       "Biology A-Level Revision": [
         {
           "name": "Applied Ecology",
-          "slug": "applied-ecology"
+          "slug": "a-level-biology-revision-applied-ecology"
         },
         {
           "name": "Basic Biochemistry",
-          "slug": "basic-biochemistry"
+          "slug": "a-level-biology-revision-basic-biochemistry"
         },
         {
           "name": "Biodiversity",
-          "slug": "biodiversity"
+          "slug": "a-level-biology-revision-biodiversity"
         },
         {
           "name": "Biological Molecules",
-          "slug": "biological-molecules"
+          "slug": "a-level-biology-revision-biological-molecules"
         },
         {
           "name": "Cells",
-          "slug": "cells"
+          "slug": "a-level-biology-revision-cells"
         },
         {
           "name": "Control in Animals & Plants",
-          "slug": "control-in-animals-plants"
+          "slug": "a-level-biology-revision-control-in-animals-plants"
         },
         {
           "name": "DOWNLOAD Zone",
-          "slug": "download-zone"
+          "slug": "a-level-biology-revision-download-zone"
         },
         {
           "name": "Energy for Life",
-          "slug": "energy-for-life"
+          "slug": "a-level-biology-revision-energy-for-life"
         },
         {
           "name": "Enzymes",
-          "slug": "enzymes"
+          "slug": "a-level-biology-revision-enzymes"
         },
         {
           "name": "Exchange",
-          "slug": "exchange"
+          "slug": "a-level-biology-revision-exchange"
         },
         {
           "name": "Genes & Genetic Engineering",
-          "slug": "genes-genetic-engineering"
+          "slug": "a-level-biology-revision-genes-genetic-engineering"
         },
         {
           "name": "Homeostasis",
-          "slug": "homeostasis"
+          "slug": "a-level-biology-revision-homeostasis"
         },
         {
           "name": "Microbes & Disease",
-          "slug": "microbes-disease"
+          "slug": "a-level-biology-revision-microbes-disease"
         },
         {
           "name": "Physiology & Transport",
-          "slug": "physiology-transport"
+          "slug": "a-level-biology-revision-physiology-transport"
         },
         {
           "name": "Reproduction & Population",
-          "slug": "reproduction-population"
+          "slug": "a-level-biology-revision-reproduction-population"
         },
         {
           "name": "Transport",
-          "slug": "transport"
+          "slug": "a-level-biology-revision-transport"
         }
       ]
     }
@@ -114,58 +114,58 @@
     "Topics": {
       "Business Studies A-Level Revision": {
         "url": "https://revisionworld.com/a2-level-level-revision/business-studies-level-revision",
-        "slug": "business-studies-a-level-revision"
+        "slug": "a-level-business-studies-revision"
       }
     },
     "Subtopics": {
       "Business Studies A-Level Revision": [
         {
           "name": "A-Level Business Studies Courses",
-          "slug": "a-level-business-studies-courses"
+          "slug": "a-level-business-studies-revision-business-studies-courses"
         },
         {
           "name": "Accounting and Finance",
-          "slug": "accounting-and-finance"
+          "slug": "a-level-business-studies-revision-accounting-and-finance"
         },
         {
           "name": "Business Objectives & Strategy",
-          "slug": "business-objectives-strategy"
+          "slug": "a-level-business-studies-revision-business-objectives-strategy"
         },
         {
           "name": "Business Organisations",
-          "slug": "business-organisations"
+          "slug": "a-level-business-studies-revision-business-organisations"
         },
         {
           "name": "Business Studies A-Level Past Papers",
-          "slug": "business-studies-a-level-past-papers"
+          "slug": "a-level-business-studies-revision-business-studies-past-papers"
         },
         {
           "name": "DOWNLOAD Zone",
-          "slug": "download-zone"
+          "slug": "a-level-business-studies-revision-download-zone"
         },
         {
           "name": "External Influences",
-          "slug": "external-influences"
+          "slug": "a-level-business-studies-revision-external-influences"
         },
         {
           "name": "Human Resource Management",
-          "slug": "human-resource-management"
+          "slug": "a-level-business-studies-revision-human-resource-management"
         },
         {
           "name": "Marketing",
-          "slug": "marketing"
+          "slug": "a-level-business-studies-revision-marketing"
         },
         {
           "name": "Operations Management",
-          "slug": "operations-management"
+          "slug": "a-level-business-studies-revision-operations-management"
         },
         {
           "name": "Productive Efficiency",
-          "slug": "productive-efficiency"
+          "slug": "a-level-business-studies-revision-productive-efficiency"
         },
         {
           "name": "Structure and Growth",
-          "slug": "structure-and-growth"
+          "slug": "a-level-business-studies-revision-structure-and-growth"
         }
       ]
     }
@@ -174,66 +174,66 @@
     "Topics": {
       "Chemistry A-Level Revision": {
         "url": "https://revisionworld.com/a2-level-level-revision/chemistry-level-revision",
-        "slug": "chemistry-a-level-revision"
+        "slug": "a-level-chemistry-revision"
       }
     },
     "Subtopics": {
       "Chemistry A-Level Revision": [
         {
           "name": "Aromatics, Amines, Amino Acids,Polymers",
-          "slug": "aromatics-amines-amino-acids-polymers"
+          "slug": "a-level-chemistry-revision-aromatics-amines-amino-acids-polymers"
         },
         {
           "name": "Atomic Structure",
-          "slug": "atomic-structure"
+          "slug": "a-level-chemistry-revision-atomic-structure"
         },
         {
           "name": "Atoms, Moles & Equations",
-          "slug": "atoms-moles-equations"
+          "slug": "a-level-chemistry-revision-atoms-moles-equations"
         },
         {
           "name": "Bonding and Structure",
-          "slug": "bonding-and-structure"
+          "slug": "a-level-chemistry-revision-bonding-and-structure"
         },
         {
           "name": "Chemical Equilibrium",
-          "slug": "chemical-equilibrium"
+          "slug": "a-level-chemistry-revision-chemical-equilibrium"
         },
         {
           "name": "DOWNLOAD Zone",
-          "slug": "download-zone"
+          "slug": "a-level-chemistry-revision-download-zone"
         },
         {
           "name": "Directing groups and activating groups in benzene",
-          "slug": "directing-groups-and-activating-groups-in-benzene"
+          "slug": "a-level-chemistry-revision-directing-groups-and-activating-groups-in-benzene"
         },
         {
           "name": "Energy Changes",
-          "slug": "energy-changes"
+          "slug": "a-level-chemistry-revision-energy-changes"
         },
         {
           "name": "Isomerism, Aldehydes, Ketones, Carboxylic Acids",
-          "slug": "isomerism-aldehydes-ketones-carboxylic-acids"
+          "slug": "a-level-chemistry-revision-isomerism-aldehydes-ketones-carboxylic-acids"
         },
         {
           "name": "Organic Chemistry",
-          "slug": "organic-chemistry"
+          "slug": "a-level-chemistry-revision-organic-chemistry"
         },
         {
           "name": "Possible University Interview Questions",
-          "slug": "possible-university-interview-questions"
+          "slug": "a-level-chemistry-revision-possible-university-interview-questions"
         },
         {
           "name": "QUESTIONS",
-          "slug": "questions"
+          "slug": "a-level-chemistry-revision-questions"
         },
         {
           "name": "Spectroscopy & Spectrometry",
-          "slug": "spectroscopy-spectrometry"
+          "slug": "a-level-chemistry-revision-spectroscopy-spectrometry"
         },
         {
           "name": "The Periodic Table",
-          "slug": "the-periodic-table"
+          "slug": "a-level-chemistry-revision-the-periodic-table"
         }
       ]
     }
@@ -242,46 +242,46 @@
     "Topics": {
       "Drama (GCSE & A-Level)": {
         "url": "https://revisionworld.com/a2-level-level-revision/drama-gcse-level",
-        "slug": "drama-gcse-a-level"
+        "slug": "a-level-drama"
       }
     },
     "Subtopics": {
       "Drama (GCSE & A-Level)": [
         {
           "name": "Creating Characters",
-          "slug": "creating-characters"
+          "slug": "a-level-drama-creating-characters"
         },
         {
           "name": "Drama and Theatre Studies A-Level Past Papers",
-          "slug": "drama-and-theatre-studies-a-level-past-papers"
+          "slug": "a-level-drama-drama-and-theatre-studies-past-papers"
         },
         {
           "name": "Endings",
-          "slug": "endings"
+          "slug": "a-level-drama-endings"
         },
         {
           "name": "Opening Scenes",
-          "slug": "opening-scenes"
+          "slug": "a-level-drama-opening-scenes"
         },
         {
           "name": "Plot & Structure",
-          "slug": "plot-structure"
+          "slug": "a-level-drama-plot-structure"
         },
         {
           "name": "Sample Questions",
-          "slug": "sample-questions"
+          "slug": "a-level-drama-sample-questions"
         },
         {
           "name": "Text & Context",
-          "slug": "text-context"
+          "slug": "a-level-drama-text-context"
         },
         {
           "name": "The Nature of Drama Texts",
-          "slug": "the-nature-of-drama-texts"
+          "slug": "a-level-drama-the-nature-of-drama-texts"
         },
         {
           "name": "Themes & Issues",
-          "slug": "themes-issues"
+          "slug": "a-level-drama-themes-issues"
         }
       ]
     }
@@ -290,42 +290,42 @@
     "Topics": {
       "Economics A-Level Revision": {
         "url": "https://revisionworld.com/a2-level-level-revision/economics-level-revision",
-        "slug": "economics-a-level-revision"
+        "slug": "a-level-economics-revision"
       }
     },
     "Subtopics": {
       "Economics A-Level Revision": [
         {
           "name": "Business Economics & Markets",
-          "slug": "business-economics-markets"
+          "slug": "a-level-economics-revision-business-economics-markets"
         },
         {
           "name": "DOWNLOAD Zone",
-          "slug": "download-zone"
+          "slug": "a-level-economics-revision-download-zone"
         },
         {
           "name": "Economics A-Level Past Papers",
-          "slug": "economics-a-level-past-papers"
+          "slug": "a-level-economics-revision-economics-past-papers"
         },
         {
           "name": "Goverment Policies",
-          "slug": "goverment-policies"
+          "slug": "a-level-economics-revision-goverment-policies"
         },
         {
           "name": "Key Terms",
-          "slug": "key-terms"
+          "slug": "a-level-economics-revision-key-terms"
         },
         {
           "name": "Markets and Market Failure",
-          "slug": "markets-and-market-failure"
+          "slug": "a-level-economics-revision-markets-and-market-failure"
         },
         {
           "name": "Markets at Work",
-          "slug": "markets-at-work"
+          "slug": "a-level-economics-revision-markets-at-work"
         },
         {
           "name": "The National Economy",
-          "slug": "the-national-economy"
+          "slug": "a-level-economics-revision-the-national-economy"
         }
       ]
     }
@@ -334,62 +334,62 @@
     "Topics": {
       "English Language GCSE & A-Level": {
         "url": "https://revisionworld.com/a2-level-level-revision/english-language-gcse-level",
-        "slug": "english-language-gcse-a-level"
+        "slug": "a-level-english-language"
       }
     },
     "Subtopics": {
       "English Language GCSE & A-Level": [
         {
           "name": "Analysing Fiction Texts",
-          "slug": "analysing-fiction-texts"
+          "slug": "a-level-english-language-analysing-fiction-texts"
         },
         {
           "name": "Analysing Non Fiction Texts",
-          "slug": "analysing-non-fiction-texts"
+          "slug": "a-level-english-language-analysing-non-fiction-texts"
         },
         {
           "name": "Child Language Acquisition",
-          "slug": "child-language-acquisition"
+          "slug": "a-level-english-language-child-language-acquisition"
         },
         {
           "name": "Context in Literature",
-          "slug": "context-in-literature"
+          "slug": "a-level-english-language-context-in-literature"
         },
         {
           "name": "English Language A-Level Past Papers",
-          "slug": "english-language-a-level-past-papers"
+          "slug": "a-level-english-language-english-language-past-papers"
         },
         {
           "name": "English Language GCSE Past Papers",
-          "slug": "english-language-gcse-past-papers"
+          "slug": "a-level-english-language-english-language-past-papers"
         },
         {
           "name": "Essay Writing Tips",
-          "slug": "essay-writing-tips"
+          "slug": "a-level-english-language-essay-writing-tips"
         },
         {
           "name": "Groupings",
-          "slug": "groupings"
+          "slug": "a-level-english-language-groupings"
         },
         {
           "name": "Language Analysis",
-          "slug": "language-analysis"
+          "slug": "a-level-english-language-language-analysis"
         },
         {
           "name": "Language Change",
-          "slug": "language-change"
+          "slug": "a-level-english-language-language-change"
         },
         {
           "name": "Language and Gender",
-          "slug": "language-and-gender"
+          "slug": "a-level-english-language-language-and-gender"
         },
         {
           "name": "Language and Power",
-          "slug": "language-and-power"
+          "slug": "a-level-english-language-language-and-power"
         },
         {
           "name": "Language and Technology",
-          "slug": "language-and-technology"
+          "slug": "a-level-english-language-language-and-technology"
         }
       ]
     }
@@ -398,158 +398,158 @@
     "Topics": {
       "English Literature GCSE & A-Level": {
         "url": "https://revisionworld.com/a2-level-level-revision/english-literature-gcse-level",
-        "slug": "english-literature-gcse-a-level"
+        "slug": "a-level-english-literature"
       }
     },
     "Subtopics": {
       "English Literature GCSE & A-Level": [
         {
           "name": "A Christmas Carol (Charles Dickens)",
-          "slug": "a-christmas-carol-charles-dickens"
+          "slug": "a-level-english-literature-a-christmas-carol-charles-dickens"
         },
         {
           "name": "A Kestrel for a Knave (Barry Hines)",
-          "slug": "a-kestrel-for-a-knave-barry-hines"
+          "slug": "a-level-english-literature-a-kestrel-for-a-knave-barry-hines"
         },
         {
           "name": "An Inspector Calls (J. B. Priestley)",
-          "slug": "an-inspector-calls-j-b-priestley"
+          "slug": "a-level-english-literature-an-inspector-calls-j-b-priestley"
         },
         {
           "name": "Animal Farm (George Orwell)",
-          "slug": "animal-farm-george-orwell"
+          "slug": "a-level-english-literature-animal-farm-george-orwell"
         },
         {
           "name": "Anita and Me (Meera Syal)",
-          "slug": "anita-and-me-meera-syal"
+          "slug": "a-level-english-literature-anita-and-me-meera-syal"
         },
         {
           "name": "Blood Brothers (Willy Russell)",
-          "slug": "blood-brothers-willy-russell"
+          "slug": "a-level-english-literature-blood-brothers-willy-russell"
         },
         {
           "name": "CONTEXT IN LITERATURE",
-          "slug": "context-in-literature"
+          "slug": "a-level-english-literature-context-in-literature"
         },
         {
           "name": "DNA (Dennis Kelly)",
-          "slug": "dna-dennis-kelly"
+          "slug": "a-level-english-literature-dna-dennis-kelly"
         },
         {
           "name": "DOWNLOAD ZONE",
-          "slug": "download-zone"
+          "slug": "a-level-english-literature-download-zone"
         },
         {
           "name": "Dr Jekyll and Mr Hyde (Robert Louis Stevenson)",
-          "slug": "dr-jekyll-and-mr-hyde-robert-louis-stevenson"
+          "slug": "a-level-english-literature-dr-jekyll-and-mr-hyde-robert-louis-stevenson"
         },
         {
           "name": "EXAM TIPS",
-          "slug": "exam-tips"
+          "slug": "a-level-english-literature-exam-tips"
         },
         {
           "name": "English Literature A-Level Past Papers",
-          "slug": "english-literature-a-level-past-papers"
+          "slug": "a-level-english-literature-english-literature-past-papers"
         },
         {
           "name": "English Literature GCSE Past Papers",
-          "slug": "english-literature-gcse-past-papers"
+          "slug": "a-level-english-literature-english-literature-past-papers"
         },
         {
           "name": "Essay writing TIPS",
-          "slug": "essay-writing-tips"
+          "slug": "a-level-english-literature-essay-writing-tips"
         },
         {
           "name": "Frankenstein (Mary Shelley)",
-          "slug": "frankenstein-mary-shelley"
+          "slug": "a-level-english-literature-frankenstein-mary-shelley"
         },
         {
           "name": "Great Expectations (Charles Dickens)",
-          "slug": "great-expectations-charles-dickens"
+          "slug": "a-level-english-literature-great-expectations-charles-dickens"
         },
         {
           "name": "Hamlet (William Shakespeare)",
-          "slug": "hamlet-william-shakespeare"
+          "slug": "a-level-english-literature-hamlet-william-shakespeare"
         },
         {
           "name": "Jane Eyre (Charlotte Bronte)",
-          "slug": "jane-eyre-charlotte-bronte"
+          "slug": "a-level-english-literature-jane-eyre-charlotte-bronte"
         },
         {
           "name": "LITERARY TERMS",
-          "slug": "literary-terms"
+          "slug": "a-level-english-literature-literary-terms"
         },
         {
           "name": "Lord of the Flies (William Golding)",
-          "slug": "lord-of-the-flies-william-golding"
+          "slug": "a-level-english-literature-lord-of-the-flies-william-golding"
         },
         {
           "name": "Macbeth (William Shakespeare)",
-          "slug": "macbeth-william-shakespeare"
+          "slug": "a-level-english-literature-macbeth-william-shakespeare"
         },
         {
           "name": "Much Ado About Nothing (Shakespeare)",
-          "slug": "much-ado-about-nothing-shakespeare"
+          "slug": "a-level-english-literature-much-ado-about-nothing-shakespeare"
         },
         {
           "name": "Never Let Me Go (Kazuo Ishiguro)",
-          "slug": "never-let-me-go-kazuo-ishiguro"
+          "slug": "a-level-english-literature-never-let-me-go-kazuo-ishiguro"
         },
         {
           "name": "Of Mice and Men (John Steinbeck)",
-          "slug": "of-mice-and-men-john-steinbeck"
+          "slug": "a-level-english-literature-of-mice-and-men-john-steinbeck"
         },
         {
           "name": "POETRY",
-          "slug": "poetry"
+          "slug": "a-level-english-literature-poetry"
         },
         {
           "name": "PROSE",
-          "slug": "prose"
+          "slug": "a-level-english-literature-prose"
         },
         {
           "name": "Pride and Prejudice (Jane Austen)",
-          "slug": "pride-and-prejudice-jane-austen"
+          "slug": "a-level-english-literature-pride-and-prejudice-jane-austen"
         },
         {
           "name": "Reading Shakespeare",
-          "slug": "reading-shakespeare"
+          "slug": "a-level-english-literature-reading-shakespeare"
         },
         {
           "name": "Romeo & Juliet (William Shakespeare)",
-          "slug": "romeo-juliet-william-shakespeare"
+          "slug": "a-level-english-literature-romeo-juliet-william-shakespeare"
         },
         {
           "name": "She Stoops to Conquer (O.Goldsmith)",
-          "slug": "she-stoops-to-conquer-o-goldsmith"
+          "slug": "a-level-english-literature-she-stoops-to-conquer-o-goldsmith"
         },
         {
           "name": "Short Stories",
-          "slug": "short-stories"
+          "slug": "a-level-english-literature-short-stories"
         },
         {
           "name": "Spies (Michael Frayn)",
-          "slug": "spies-michael-frayn"
+          "slug": "a-level-english-literature-spies-michael-frayn"
         },
         {
           "name": "The Tempest (William Shakespeare)",
-          "slug": "the-tempest-william-shakespeare"
+          "slug": "a-level-english-literature-the-tempest-william-shakespeare"
         },
         {
           "name": "The War of the Worlds (H.G. Wells)",
-          "slug": "the-war-of-the-worlds-h-g-wells"
+          "slug": "a-level-english-literature-the-war-of-the-worlds-h-g-wells"
         },
         {
           "name": "The Winter's Tale (Shakespeare)",
-          "slug": "the-winter-s-tale-shakespeare"
+          "slug": "a-level-english-literature-the-winter-s-tale-shakespeare"
         },
         {
           "name": "The Woman in Black (Susan Hill)",
-          "slug": "the-woman-in-black-susan-hill"
+          "slug": "a-level-english-literature-the-woman-in-black-susan-hill"
         },
         {
           "name": "To Kill a Mockingbird (Harper Lee)",
-          "slug": "to-kill-a-mockingbird-harper-lee"
+          "slug": "a-level-english-literature-to-kill-a-mockingbird-harper-lee"
         }
       ]
     }
@@ -558,66 +558,66 @@
     "Topics": {
       "Exam Revision Tips and Advice": {
         "url": "https://revisionworld.com/a2-level-level-revision/exam-tips-and-advice",
-        "slug": "exam-revision-tips-and-advice"
+        "slug": "a-level-exam-revision-tips-and-advice"
       }
     },
     "Subtopics": {
       "Exam Revision Tips and Advice": [
         {
           "name": "Before the Exam",
-          "slug": "before-the-exam"
+          "slug": "a-level-exam-revision-tips-and-advice-before-the-exam"
         },
         {
           "name": "Exam Past Papers our Top Tips",
-          "slug": "exam-past-papers-our-top-tips"
+          "slug": "a-level-exam-revision-tips-and-advice-exam-past-papers-our-top-tips"
         },
         {
           "name": "Exam Preparation Strategies",
-          "slug": "exam-preparation-strategies"
+          "slug": "a-level-exam-revision-tips-and-advice-exam-preparation-strategies"
         },
         {
           "name": "GCSE Parents' Guide",
-          "slug": "gcse-parents-guide"
+          "slug": "a-level-exam-revision-tips-and-advice-parents-guide"
         },
         {
           "name": "Helpful Hints for Parents",
-          "slug": "helpful-hints-for-parents"
+          "slug": "a-level-exam-revision-tips-and-advice-helpful-hints-for-parents"
         },
         {
           "name": "How to be Productive with your Revision",
-          "slug": "how-to-be-productive-with-your-revision"
+          "slug": "a-level-exam-revision-tips-and-advice-how-to-be-productive-with-your-revision"
         },
         {
           "name": "In the Exam",
-          "slug": "in-the-exam"
+          "slug": "a-level-exam-revision-tips-and-advice-in-the-exam"
         },
         {
           "name": "Med Success Future Doctors Virtual Summit",
-          "slug": "med-success-future-doctors-virtual-summit"
+          "slug": "a-level-exam-revision-tips-and-advice-med-success-future-doctors-virtual-summit"
         },
         {
           "name": "Mock Exams & Past Papers",
-          "slug": "mock-exams-past-papers"
+          "slug": "a-level-exam-revision-tips-and-advice-mock-exams-past-papers"
         },
         {
           "name": "Preparing for Exams",
-          "slug": "preparing-for-exams"
+          "slug": "a-level-exam-revision-tips-and-advice-preparing-for-exams"
         },
         {
           "name": "The Student Guide to Revision",
-          "slug": "the-student-guide-to-revision"
+          "slug": "a-level-exam-revision-tips-and-advice-the-student-guide-to-revision"
         },
         {
           "name": "Top 10 tips for avoiding exam stress",
-          "slug": "top-10-tips-for-avoiding-exam-stress"
+          "slug": "a-level-exam-revision-tips-and-advice-top-10-tips-for-avoiding-exam-stress"
         },
         {
           "name": "Top Revision Tips",
-          "slug": "top-revision-tips"
+          "slug": "a-level-exam-revision-tips-and-advice-top-revision-tips"
         },
         {
           "name": "Top Revision Tips for Students",
-          "slug": "top-revision-tips-for-students"
+          "slug": "a-level-exam-revision-tips-and-advice-top-revision-tips-for-students"
         }
       ]
     }
@@ -626,58 +626,58 @@
     "Topics": {
       "Geography A-Level Revision": {
         "url": "https://revisionworld.com/a2-level-level-revision/geography-level-revision",
-        "slug": "geography-a-level-revision"
+        "slug": "a-level-geography-revision"
       }
     },
     "Subtopics": {
       "Geography A-Level Revision": [
         {
           "name": "Arid and Semi Arid Environments",
-          "slug": "arid-and-semi-arid-environments"
+          "slug": "a-level-geography-revision-arid-and-semi-arid-environments"
         },
         {
           "name": "Challenge of the Atmosphere",
-          "slug": "challenge-of-the-atmosphere"
+          "slug": "a-level-geography-revision-challenge-of-the-atmosphere"
         },
         {
           "name": "Coastal Environments",
-          "slug": "coastal-environments"
+          "slug": "a-level-geography-revision-coastal-environments"
         },
         {
           "name": "DOWNLOAD Zone",
-          "slug": "download-zone"
+          "slug": "a-level-geography-revision-download-zone"
         },
         {
           "name": "Different types of questions in Geography examinations",
-          "slug": "different-types-of-questions-in-geography-examinations"
+          "slug": "a-level-geography-revision-different-types-of-questions-in-geography-examinations"
         },
         {
           "name": "Exam Technique",
-          "slug": "exam-technique"
+          "slug": "a-level-geography-revision-exam-technique"
         },
         {
           "name": "Four steps to successful Geography revision",
-          "slug": "four-steps-to-successful-geography-revision"
+          "slug": "a-level-geography-revision-four-steps-to-successful-geography-revision"
         },
         {
           "name": "Geography A-Level Past Papers",
-          "slug": "geography-a-level-past-papers"
+          "slug": "a-level-geography-revision-geography-past-papers"
         },
         {
           "name": "Glacial Environments",
-          "slug": "glacial-environments"
+          "slug": "a-level-geography-revision-glacial-environments"
         },
         {
           "name": "Global Challenges and Issues",
-          "slug": "global-challenges-and-issues"
+          "slug": "a-level-geography-revision-global-challenges-and-issues"
         },
         {
           "name": "Population",
-          "slug": "population"
+          "slug": "a-level-geography-revision-population"
         },
         {
           "name": "Synoptic assessment",
-          "slug": "synoptic-assessment"
+          "slug": "a-level-geography-revision-synoptic-assessment"
         }
       ]
     }
@@ -686,78 +686,78 @@
     "Topics": {
       "History GCSE & A-Level Revision": {
         "url": "https://revisionworld.com/a2-level-level-revision/history-gcse-level",
-        "slug": "history-gcse-a-level-revision"
+        "slug": "a-level-history-revision"
       }
     },
     "Subtopics": {
       "History GCSE & A-Level Revision": [
         {
           "name": "18th Century Europe",
-          "slug": "18th-century-europe"
+          "slug": "a-level-history-revision-18th-century-europe"
         },
         {
           "name": "19th Century Europe",
-          "slug": "19th-century-europe"
+          "slug": "a-level-history-revision-19th-century-europe"
         },
         {
           "name": "19th Century Great Britain",
-          "slug": "19th-century-great-britain"
+          "slug": "a-level-history-revision-19th-century-great-britain"
         },
         {
           "name": "20th Century Europe",
-          "slug": "20th-century-europe"
+          "slug": "a-level-history-revision-20th-century-europe"
         },
         {
           "name": "20th Century USA",
-          "slug": "20th-century-usa"
+          "slug": "a-level-history-revision-20th-century-usa"
         },
         {
           "name": "AS & A2 History Exam Tips & Advice",
-          "slug": "as-a2-history-exam-tips-advice"
+          "slug": "a-level-history-revision-as-a2-history-exam-tips-advice"
         },
         {
           "name": "British Politics",
-          "slug": "british-politics"
+          "slug": "a-level-history-revision-british-politics"
         },
         {
           "name": "History A-Level Past Papers",
-          "slug": "history-a-level-past-papers"
+          "slug": "a-level-history-revision-history-past-papers"
         },
         {
           "name": "History Exam Tips",
-          "slug": "history-exam-tips"
+          "slug": "a-level-history-revision-history-exam-tips"
         },
         {
           "name": "History GCSE Past Papers",
-          "slug": "history-gcse-past-papers"
+          "slug": "a-level-history-revision-history-past-papers"
         },
         {
           "name": "Ireland",
-          "slug": "ireland"
+          "slug": "a-level-history-revision-ireland"
         },
         {
           "name": "Russia: Communism (1918-1991)",
-          "slug": "russia-communism-1918-1991"
+          "slug": "a-level-history-revision-russia-communism-1918-1991"
         },
         {
           "name": "Russia: Tsarism (1721-1917)",
-          "slug": "russia-tsarism-1721-1917"
+          "slug": "a-level-history-revision-russia-tsarism-1721-1917"
         },
         {
           "name": "Tudors & Stuarts",
-          "slug": "tudors-stuarts"
+          "slug": "a-level-history-revision-tudors-stuarts"
         },
         {
           "name": "World History (Post 1945)",
-          "slug": "world-history-post-1945"
+          "slug": "a-level-history-revision-world-history-post-1945"
         },
         {
           "name": "World War One (1914-1918)",
-          "slug": "world-war-one-1914-1918"
+          "slug": "a-level-history-revision-world-war-one-1914-1918"
         },
         {
           "name": "World War Two (1939-1945)",
-          "slug": "world-war-two-1939-1945"
+          "slug": "a-level-history-revision-world-war-two-1939-1945"
         }
       ]
     }
@@ -766,18 +766,18 @@
     "Topics": {
       "Human Biology A-Level Revision": {
         "url": "https://revisionworld.com/a2-level-level-revision/human-biology-level-revision",
-        "slug": "human-biology-a-level-revision"
+        "slug": "a-level-human-biology-revision"
       }
     },
     "Subtopics": {
       "Human Biology A-Level Revision": [
         {
           "name": "Year One AS Level",
-          "slug": "year-one-as-level"
+          "slug": "a-level-human-biology-revision-year-one-as-level"
         },
         {
           "name": "Year Two A2",
-          "slug": "year-two-a2"
+          "slug": "a-level-human-biology-revision-year-two-a2"
         }
       ]
     }
@@ -786,78 +786,78 @@
     "Topics": {
       "Law A-Level Revision": {
         "url": "https://revisionworld.com/a2-level-level-revision/law-level-revision",
-        "slug": "law-a-level-revision"
+        "slug": "a-level-law-revision"
       }
     },
     "Subtopics": {
       "Law A-Level Revision": [
         {
           "name": "British Legal System Timeline",
-          "slug": "british-legal-system-timeline"
+          "slug": "a-level-law-revision-british-legal-system-timeline"
         },
         {
           "name": "Civil Disobedience",
-          "slug": "civil-disobedience"
+          "slug": "a-level-law-revision-civil-disobedience"
         },
         {
           "name": "Civil Liability",
-          "slug": "civil-liability"
+          "slug": "a-level-law-revision-civil-liability"
         },
         {
           "name": "Delegated Legislation",
-          "slug": "delegated-legislation"
+          "slug": "a-level-law-revision-delegated-legislation"
         },
         {
           "name": "Freedom of Expression",
-          "slug": "freedom-of-expression"
+          "slug": "a-level-law-revision-freedom-of-expression"
         },
         {
           "name": "Justice",
-          "slug": "justice"
+          "slug": "a-level-law-revision-justice"
         },
         {
           "name": "Law",
-          "slug": "law"
+          "slug": "a-level-law-revision"
         },
         {
           "name": "Law A-Level Past Papers",
-          "slug": "law-a-level-past-papers"
+          "slug": "a-level-law-revision-law-past-papers"
         },
         {
           "name": "Legal Professionals",
-          "slug": "legal-professionals"
+          "slug": "a-level-law-revision-legal-professionals"
         },
         {
           "name": "Negligence Tort Law",
-          "slug": "negligence-tort-law"
+          "slug": "a-level-law-revision-negligence-tort-law"
         },
         {
           "name": "Obligation",
-          "slug": "obligation"
+          "slug": "a-level-law-revision-obligation"
         },
         {
           "name": "Order",
-          "slug": "order"
+          "slug": "a-level-law-revision-order"
         },
         {
           "name": "Police Powers",
-          "slug": "police-powers"
+          "slug": "a-level-law-revision-police-powers"
         },
         {
           "name": "Private Nuisance Tort Law",
-          "slug": "private-nuisance-tort-law"
+          "slug": "a-level-law-revision-private-nuisance-tort-law"
         },
         {
           "name": "Sample Questions",
-          "slug": "sample-questions"
+          "slug": "a-level-law-revision-sample-questions"
         },
         {
           "name": "Sources of Law",
-          "slug": "sources-of-law"
+          "slug": "a-level-law-revision-sources-of-law"
         },
         {
           "name": "The Court System",
-          "slug": "the-court-system"
+          "slug": "a-level-law-revision-the-court-system"
         }
       ]
     }
@@ -866,38 +866,38 @@
     "Topics": {
       "Maths A-Level Revision": {
         "url": "https://revisionworld.com/a2-level-level-revision/maths-level-revision",
-        "slug": "maths-a-level-revision"
+        "slug": "a-level-maths-revision"
       }
     },
     "Subtopics": {
       "Maths A-Level Revision": [
         {
           "name": "A-Level Maths Past Papers",
-          "slug": "a-level-maths-past-papers"
+          "slug": "a-level-maths-revision-maths-past-papers"
         },
         {
           "name": "Decision Maths",
-          "slug": "decision-maths"
+          "slug": "a-level-maths-revision-decision-maths"
         },
         {
           "name": "Mathematical Formulae",
-          "slug": "mathematical-formulae"
+          "slug": "a-level-maths-revision-mathematical-formulae"
         },
         {
           "name": "Mathematics Courses",
-          "slug": "mathematics-courses"
+          "slug": "a-level-maths-revision-mathematics-courses"
         },
         {
           "name": "Mechanics",
-          "slug": "mechanics"
+          "slug": "a-level-maths-revision-mechanics"
         },
         {
           "name": "Pure Mathematics",
-          "slug": "pure-mathematics"
+          "slug": "a-level-maths-revision-pure-mathematics"
         },
         {
           "name": "Statistics",
-          "slug": "statistics"
+          "slug": "a-level-maths-revision-statistics"
         }
       ]
     }
@@ -906,58 +906,58 @@
     "Topics": {
       "Media Studies A-Level Revision": {
         "url": "https://revisionworld.com/a2-level-level-revision/media-studies-level-revision",
-        "slug": "media-studies-a-level-revision"
+        "slug": "a-level-media-studies-revision"
       }
     },
     "Subtopics": {
       "Media Studies A-Level Revision": [
         {
           "name": "Audience Engagement Theory",
-          "slug": "audience-engagement-theory"
+          "slug": "a-level-media-studies-revision-audience-engagement-theory"
         },
         {
           "name": "Cultivation Theory",
-          "slug": "cultivation-theory"
+          "slug": "a-level-media-studies-revision-cultivation-theory"
         },
         {
           "name": "Genre Theory",
-          "slug": "genre-theory"
+          "slug": "a-level-media-studies-revision-genre-theory"
         },
         {
           "name": "Hypodermic Needle theory",
-          "slug": "hypodermic-needle-theory"
+          "slug": "a-level-media-studies-revision-hypodermic-needle-theory"
         },
         {
           "name": "Key Media Studies Theorists",
-          "slug": "key-media-studies-theorists"
+          "slug": "a-level-media-studies-revision-key-media-studies-theorists"
         },
         {
           "name": "Media Studies A-Level Past Papers",
-          "slug": "media-studies-a-level-past-papers"
+          "slug": "a-level-media-studies-revision-media-studies-past-papers"
         },
         {
           "name": "Moral Panic Theory",
-          "slug": "moral-panic-theory"
+          "slug": "a-level-media-studies-revision-moral-panic-theory"
         },
         {
           "name": "Post Modern Theory",
-          "slug": "post-modern-theory"
+          "slug": "a-level-media-studies-revision-post-modern-theory"
         },
         {
           "name": "Print Advert – Tide Case Study",
-          "slug": "print-advert-tide-case-study"
+          "slug": "a-level-media-studies-revision-print-advert-tide-case-study"
         },
         {
           "name": "Reception Theory",
-          "slug": "reception-theory"
+          "slug": "a-level-media-studies-revision-reception-theory"
         },
         {
           "name": "Two - Step Flow Theory",
-          "slug": "two-step-flow-theory"
+          "slug": "a-level-media-studies-revision-two-step-flow-theory"
         },
         {
           "name": "Uses and Gratifications Theory",
-          "slug": "uses-and-gratifications-theory"
+          "slug": "a-level-media-studies-revision-uses-and-gratifications-theory"
         }
       ]
     }
@@ -966,46 +966,46 @@
     "Topics": {
       "Physical Education A-Level Revision": {
         "url": "https://revisionworld.com/a2-level-level-revision/physical-education-level-revision",
-        "slug": "physical-education-a-level-revision"
+        "slug": "a-level-physical-education-revision"
       }
     },
     "Subtopics": {
       "Physical Education A-Level Revision": [
         {
           "name": "Arousal",
-          "slug": "arousal"
+          "slug": "a-level-physical-education-revision-arousal"
         },
         {
           "name": "DOWNLOAD Zone",
-          "slug": "download-zone"
+          "slug": "a-level-physical-education-revision-download-zone"
         },
         {
           "name": "Deviance in Sport (Coakley)",
-          "slug": "deviance-in-sport-coakley"
+          "slug": "a-level-physical-education-revision-deviance-in-sport-coakley"
         },
         {
           "name": "Motion and Mechanics",
-          "slug": "motion-and-mechanics"
+          "slug": "a-level-physical-education-revision-motion-and-mechanics"
         },
         {
           "name": "PE A-Level Past Papers",
-          "slug": "pe-a-level-past-papers"
+          "slug": "a-level-physical-education-revision-pe-past-papers"
         },
         {
           "name": "Personality Theories",
-          "slug": "personality-theories"
+          "slug": "a-level-physical-education-revision-personality-theories"
         },
         {
           "name": "Sport and the Media",
-          "slug": "sport-and-the-media"
+          "slug": "a-level-physical-education-revision-sport-and-the-media"
         },
         {
           "name": "Stress & Anxiety",
-          "slug": "stress-anxiety"
+          "slug": "a-level-physical-education-revision-stress-anxiety"
         },
         {
           "name": "Stress Management",
-          "slug": "stress-management"
+          "slug": "a-level-physical-education-revision-stress-management"
         }
       ]
     }
@@ -1014,42 +1014,42 @@
     "Topics": {
       "Physics A-Level Revision": {
         "url": "https://revisionworld.com/a2-level-level-revision/physics-level-revision",
-        "slug": "physics-a-level-revision"
+        "slug": "a-level-physics-revision"
       }
     },
     "Subtopics": {
       "Physics A-Level Revision": [
         {
           "name": "Applied Physics",
-          "slug": "applied-physics"
+          "slug": "a-level-physics-revision-applied-physics"
         },
         {
           "name": "Current Electricity",
-          "slug": "current-electricity"
+          "slug": "a-level-physics-revision-current-electricity"
         },
         {
           "name": "DOWNLOAD Zone",
-          "slug": "download-zone"
+          "slug": "a-level-physics-revision-download-zone"
         },
         {
           "name": "Elastic Properties of Solids",
-          "slug": "elastic-properties-of-solids"
+          "slug": "a-level-physics-revision-elastic-properties-of-solids"
         },
         {
           "name": "Fields",
-          "slug": "fields"
+          "slug": "a-level-physics-revision-fields"
         },
         {
           "name": "Force & Motion",
-          "slug": "force-motion"
+          "slug": "a-level-physics-revision-force-motion"
         },
         {
           "name": "Particles, Radiation & Quantum Phenomena",
-          "slug": "particles-radiation-quantum-phenomena"
+          "slug": "a-level-physics-revision-particles-radiation-quantum-phenomena"
         },
         {
           "name": "Physics Courses",
-          "slug": "physics-courses"
+          "slug": "a-level-physics-revision-physics-courses"
         }
       ]
     }
@@ -1058,126 +1058,126 @@
     "Topics": {
       "Politics A-Level Revision": {
         "url": "https://revisionworld.com/a2-level-level-revision/government-politics-level-revision",
-        "slug": "politics-a-level-revision"
+        "slug": "a-level-politics-revision"
       }
     },
     "Subtopics": {
       "Politics A-Level Revision": [
         {
           "name": "Conservatism",
-          "slug": "conservatism"
+          "slug": "a-level-politics-revision-conservatism"
         },
         {
           "name": "Conservatism in Practice",
-          "slug": "conservatism-in-practice"
+          "slug": "a-level-politics-revision-conservatism-in-practice"
         },
         {
           "name": "Conservative Theory",
-          "slug": "conservative-theory"
+          "slug": "a-level-politics-revision-conservative-theory"
         },
         {
           "name": "Democratic Theory",
-          "slug": "democratic-theory"
+          "slug": "a-level-politics-revision-democratic-theory"
         },
         {
           "name": "Democratic Theory in Practice",
-          "slug": "democratic-theory-in-practice"
+          "slug": "a-level-politics-revision-democratic-theory-in-practice"
         },
         {
           "name": "Ecologism Theory",
-          "slug": "ecologism-theory"
+          "slug": "a-level-politics-revision-ecologism-theory"
         },
         {
           "name": "Electoral Systems & Referenda",
-          "slug": "electoral-systems-referenda"
+          "slug": "a-level-politics-revision-electoral-systems-referenda"
         },
         {
           "name": "European Union (EU)",
-          "slug": "european-union-eu"
+          "slug": "a-level-politics-revision-european-union-eu"
         },
         {
           "name": "Feminism Theory",
-          "slug": "feminism-theory"
+          "slug": "a-level-politics-revision-feminism-theory"
         },
         {
           "name": "Liberalism Theory",
-          "slug": "liberalism-theory"
+          "slug": "a-level-politics-revision-liberalism-theory"
         },
         {
           "name": "Liberalism in Practice",
-          "slug": "liberalism-in-practice"
+          "slug": "a-level-politics-revision-liberalism-in-practice"
         },
         {
           "name": "Marxism",
-          "slug": "marxism"
+          "slug": "a-level-politics-revision-marxism"
         },
         {
           "name": "Nationalism Theory",
-          "slug": "nationalism-theory"
+          "slug": "a-level-politics-revision-nationalism-theory"
         },
         {
           "name": "Nationalism in Practice",
-          "slug": "nationalism-in-practice"
+          "slug": "a-level-politics-revision-nationalism-in-practice"
         },
         {
           "name": "Political Parties (UK)",
-          "slug": "political-parties-uk"
+          "slug": "a-level-politics-revision-political-parties-uk"
         },
         {
           "name": "Politics A-Level Past Papers",
-          "slug": "politics-a-level-past-papers"
+          "slug": "a-level-politics-revision-politics-past-papers"
         },
         {
           "name": "Power, Authority & Legitimacy Theory",
-          "slug": "power-authority-legitimacy-theory"
+          "slug": "a-level-politics-revision-power-authority-legitimacy-theory"
         },
         {
           "name": "Power, Authority & Legitimacy in Practice",
-          "slug": "power-authority-legitimacy-in-practice"
+          "slug": "a-level-politics-revision-power-authority-legitimacy-in-practice"
         },
         {
           "name": "Pressure Groups / Protest Movements",
-          "slug": "pressure-groups-protest-movements"
+          "slug": "a-level-politics-revision-pressure-groups-protest-movements"
         },
         {
           "name": "Religious Fundamentalism Theory",
-          "slug": "religious-fundamentalism-theory"
+          "slug": "a-level-politics-revision-religious-fundamentalism-theory"
         },
         {
           "name": "Rights, Liberty and Equality",
-          "slug": "rights-liberty-and-equality"
+          "slug": "a-level-politics-revision-rights-liberty-and-equality"
         },
         {
           "name": "Socialism Theory",
-          "slug": "socialism-theory"
+          "slug": "a-level-politics-revision-socialism-theory"
         },
         {
           "name": "Socialism in Practice",
-          "slug": "socialism-in-practice"
+          "slug": "a-level-politics-revision-socialism-in-practice"
         },
         {
           "name": "Types of Socialism",
-          "slug": "types-of-socialism"
+          "slug": "a-level-politics-revision-types-of-socialism"
         },
         {
           "name": "UK Government Constitution",
-          "slug": "uk-government-constitution"
+          "slug": "a-level-politics-revision-uk-government-constitution"
         },
         {
           "name": "UK Government Executives",
-          "slug": "uk-government-executives"
+          "slug": "a-level-politics-revision-uk-government-executives"
         },
         {
           "name": "UK Government Judiciary",
-          "slug": "uk-government-judiciary"
+          "slug": "a-level-politics-revision-uk-government-judiciary"
         },
         {
           "name": "UK Government Legislatures",
-          "slug": "uk-government-legislatures"
+          "slug": "a-level-politics-revision-uk-government-legislatures"
         },
         {
           "name": "Voting Behaviour in the UK",
-          "slug": "voting-behaviour-in-the-uk"
+          "slug": "a-level-politics-revision-voting-behaviour-in-the-uk"
         }
       ]
     }
@@ -1186,62 +1186,62 @@
     "Topics": {
       "Psychology A-Level Revision": {
         "url": "https://revisionworld.com/a2-level-level-revision/psychology-level-revision",
-        "slug": "psychology-a-level-revision"
+        "slug": "a-level-psychology-revision"
       }
     },
     "Subtopics": {
       "Psychology A-Level Revision": [
         {
           "name": "A-Level Psychology Past Papers",
-          "slug": "a-level-psychology-past-papers"
+          "slug": "a-level-psychology-revision-psychology-past-papers"
         },
         {
           "name": "Approaches to Psychology",
-          "slug": "approaches-to-psychology"
+          "slug": "a-level-psychology-revision-approaches-to-psychology"
         },
         {
           "name": "Attachment",
-          "slug": "attachment"
+          "slug": "a-level-psychology-revision-attachment"
         },
         {
           "name": "DOWNLOAD Zone",
-          "slug": "download-zone"
+          "slug": "a-level-psychology-revision-download-zone"
         },
         {
           "name": "Forensic Psychology",
-          "slug": "forensic-psychology"
+          "slug": "a-level-psychology-revision-forensic-psychology"
         },
         {
           "name": "Health & Clinical Psychology",
-          "slug": "health-clinical-psychology"
+          "slug": "a-level-psychology-revision-health-clinical-psychology"
         },
         {
           "name": "Key Studies",
-          "slug": "key-studies"
+          "slug": "a-level-psychology-revision-key-studies"
         },
         {
           "name": "Key Terms",
-          "slug": "key-terms"
+          "slug": "a-level-psychology-revision-key-terms"
         },
         {
           "name": "Memory",
-          "slug": "memory"
+          "slug": "a-level-psychology-revision-memory"
         },
         {
           "name": "Research Methods",
-          "slug": "research-methods"
+          "slug": "a-level-psychology-revision-research-methods"
         },
         {
           "name": "Social Psychology",
-          "slug": "social-psychology"
+          "slug": "a-level-psychology-revision-social-psychology"
         },
         {
           "name": "Studying Psychology at University",
-          "slug": "studying-psychology-at-university"
+          "slug": "a-level-psychology-revision-studying-psychology-at-university"
         },
         {
           "name": "Themes, Issues and Debates",
-          "slug": "themes-issues-and-debates"
+          "slug": "a-level-psychology-revision-themes-issues-and-debates"
         }
       ]
     }
@@ -1250,26 +1250,26 @@
     "Topics": {
       "Religious Studies (RS) A-Level Revision": {
         "url": "https://revisionworld.com/a2-level-level-revision/religious-studies-level-revision",
-        "slug": "religious-studies-rs-a-level-revision"
+        "slug": "a-level-religious-studies-rs-revision"
       }
     },
     "Subtopics": {
       "Religious Studies (RS) A-Level Revision": [
         {
           "name": "DOWNLOAD Zone",
-          "slug": "download-zone"
+          "slug": "a-level-religious-studies-rs-revision-download-zone"
         },
         {
           "name": "Ethics",
-          "slug": "ethics"
+          "slug": "a-level-religious-studies-rs-revision-ethics"
         },
         {
           "name": "Philosophy of Religion",
-          "slug": "philosophy-of-religion"
+          "slug": "a-level-religious-studies-rs-revision-philosophy-of-religion"
         },
         {
           "name": "RS A-Level Past Papers",
-          "slug": "rs-a-level-past-papers"
+          "slug": "a-level-religious-studies-rs-revision-rs-past-papers"
         }
       ]
     }
@@ -1278,34 +1278,34 @@
     "Topics": {
       "Sociology A-Level Revision": {
         "url": "https://revisionworld.com/a2-level-level-revision/sociology-level-revision",
-        "slug": "sociology-a-level-revision"
+        "slug": "a-level-sociology-revision"
       }
     },
     "Subtopics": {
       "Sociology A-Level Revision": [
         {
           "name": "A-Level Sociology Courses",
-          "slug": "a-level-sociology-courses"
+          "slug": "a-level-sociology-revision-sociology-courses"
         },
         {
           "name": "Mass Media",
-          "slug": "mass-media"
+          "slug": "a-level-sociology-revision-mass-media"
         },
         {
           "name": "Research Methods",
-          "slug": "research-methods"
+          "slug": "a-level-sociology-revision-research-methods"
         },
         {
           "name": "Sociology A-Level Past Papers",
-          "slug": "sociology-a-level-past-papers"
+          "slug": "a-level-sociology-revision-sociology-past-papers"
         },
         {
           "name": "The Family",
-          "slug": "the-family"
+          "slug": "a-level-sociology-revision-the-family"
         },
         {
           "name": "World Sociology",
-          "slug": "world-sociology"
+          "slug": "a-level-sociology-revision-world-sociology"
         }
       ]
     }

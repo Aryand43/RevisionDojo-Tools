@@ -4,6 +4,13 @@ const fs = require('fs');
 
 const baseUrl = 'https://revisionworld.com/a2-level-level-revision';
 
+function generateSlug(text) {
+    return text.toLowerCase()
+               .replace(/[^a-z0-9]+/g, '-')
+               .replace(/^-+|-+$/g, '');
+}
+
+
 async function scrapeCategories() {
     try {
         const response = await axios.get(baseUrl);
@@ -36,10 +43,18 @@ async function scrapeTopicsAndSubtopics(data) {
             try {
                 const response = await axios.get(topicUrl);
                 const $ = cheerio.load(response.data);
+                data[subject].Topics[topic] = {
+                    url: topicUrl,
+                    slug: generateSlug(topic)
+                };
+                data[subject].Subtopics[topic] = [];
                 $('div.block-revision-study-resources-section-child-links ul li a').each((i, subtopicElement) => {
-                    const subtopic = $(subtopicElement).text().trim();
-                    if (subtopic) {
-                        data[subject].Subtopics[topic].push(subtopic);
+                    const subtopicName = $(subtopicElement).text().trim();
+                    if (subtopicName) {
+                        data[subject].Subtopics[topic].push({
+                            name: subtopicName,
+                            slug: generateSlug(subtopicName)
+                        });
                     }
                 });
 

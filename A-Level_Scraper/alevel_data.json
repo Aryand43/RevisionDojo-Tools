@@ -1,7 +1,10 @@
 {
   "A-Level Exam Past Papers": {
     "Topics": {
-      "A-Level Exam Past Papers": "https://revisionworld.com/a2-level-level-revision/level-exam-past-papers"
+      "A-Level Exam Past Papers": {
+        "url": "https://revisionworld.com/a2-level-level-revision/level-exam-past-papers",
+        "slug": "a-level-exam-past-papers"
+      }
     },
     "Subtopics": {
       "A-Level Exam Past Papers": []
@@ -9,452 +12,1301 @@
   },
   "Art and Design A-Level Revision": {
     "Topics": {
-      "Art and Design A-Level Revision": "https://revisionworld.com/a2-level-level-revision/art-level-revision"
+      "Art and Design A-Level Revision": {
+        "url": "https://revisionworld.com/a2-level-level-revision/art-level-revision",
+        "slug": "art-and-design-a-level-revision"
+      }
     },
     "Subtopics": {
       "Art and Design A-Level Revision": [
-        "Art and Design A-Level Past Papers",
-        "Fine Art Movements & Art History",
-        "Skills & Techniques"
+        {
+          "name": "Art and Design A-Level Past Papers",
+          "slug": "art-and-design-a-level-past-papers"
+        },
+        {
+          "name": "Fine Art Movements & Art History",
+          "slug": "fine-art-movements-art-history"
+        },
+        {
+          "name": "Skills & Techniques",
+          "slug": "skills-techniques"
+        }
       ]
     }
   },
   "Biology A-Level Revision": {
     "Topics": {
-      "Biology A-Level Revision": "https://revisionworld.com/a2-level-level-revision/biology-level-revision"
+      "Biology A-Level Revision": {
+        "url": "https://revisionworld.com/a2-level-level-revision/biology-level-revision",
+        "slug": "biology-a-level-revision"
+      }
     },
     "Subtopics": {
       "Biology A-Level Revision": [
-        "Applied Ecology",
-        "Basic Biochemistry",
-        "Biodiversity",
-        "Biological Molecules",
-        "Cells",
-        "Control in Animals & Plants",
-        "DOWNLOAD Zone",
-        "Energy for Life",
-        "Enzymes",
-        "Exchange",
-        "Genes & Genetic Engineering",
-        "Homeostasis",
-        "Microbes & Disease",
-        "Physiology & Transport",
-        "Reproduction & Population",
-        "Transport"
+        {
+          "name": "Applied Ecology",
+          "slug": "applied-ecology"
+        },
+        {
+          "name": "Basic Biochemistry",
+          "slug": "basic-biochemistry"
+        },
+        {
+          "name": "Biodiversity",
+          "slug": "biodiversity"
+        },
+        {
+          "name": "Biological Molecules",
+          "slug": "biological-molecules"
+        },
+        {
+          "name": "Cells",
+          "slug": "cells"
+        },
+        {
+          "name": "Control in Animals & Plants",
+          "slug": "control-in-animals-plants"
+        },
+        {
+          "name": "DOWNLOAD Zone",
+          "slug": "download-zone"
+        },
+        {
+          "name": "Energy for Life",
+          "slug": "energy-for-life"
+        },
+        {
+          "name": "Enzymes",
+          "slug": "enzymes"
+        },
+        {
+          "name": "Exchange",
+          "slug": "exchange"
+        },
+        {
+          "name": "Genes & Genetic Engineering",
+          "slug": "genes-genetic-engineering"
+        },
+        {
+          "name": "Homeostasis",
+          "slug": "homeostasis"
+        },
+        {
+          "name": "Microbes & Disease",
+          "slug": "microbes-disease"
+        },
+        {
+          "name": "Physiology & Transport",
+          "slug": "physiology-transport"
+        },
+        {
+          "name": "Reproduction & Population",
+          "slug": "reproduction-population"
+        },
+        {
+          "name": "Transport",
+          "slug": "transport"
+        }
       ]
     }
   },
   "Business Studies A-Level Revision": {
     "Topics": {
-      "Business Studies A-Level Revision": "https://revisionworld.com/a2-level-level-revision/business-studies-level-revision"
+      "Business Studies A-Level Revision": {
+        "url": "https://revisionworld.com/a2-level-level-revision/business-studies-level-revision",
+        "slug": "business-studies-a-level-revision"
+      }
     },
     "Subtopics": {
       "Business Studies A-Level Revision": [
-        "A-Level Business Studies Courses",
-        "Accounting and Finance",
-        "Business Objectives & Strategy",
-        "Business Organisations",
-        "Business Studies A-Level Past Papers",
-        "DOWNLOAD Zone",
-        "External Influences",
-        "Human Resource Management",
-        "Marketing",
-        "Operations Management",
-        "Productive Efficiency",
-        "Structure and Growth"
+        {
+          "name": "A-Level Business Studies Courses",
+          "slug": "a-level-business-studies-courses"
+        },
+        {
+          "name": "Accounting and Finance",
+          "slug": "accounting-and-finance"
+        },
+        {
+          "name": "Business Objectives & Strategy",
+          "slug": "business-objectives-strategy"
+        },
+        {
+          "name": "Business Organisations",
+          "slug": "business-organisations"
+        },
+        {
+          "name": "Business Studies A-Level Past Papers",
+          "slug": "business-studies-a-level-past-papers"
+        },
+        {
+          "name": "DOWNLOAD Zone",
+          "slug": "download-zone"
+        },
+        {
+          "name": "External Influences",
+          "slug": "external-influences"
+        },
+        {
+          "name": "Human Resource Management",
+          "slug": "human-resource-management"
+        },
+        {
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "name": "Operations Management",
+          "slug": "operations-management"
+        },
+        {
+          "name": "Productive Efficiency",
+          "slug": "productive-efficiency"
+        },
+        {
+          "name": "Structure and Growth",
+          "slug": "structure-and-growth"
+        }
       ]
     }
   },
   "Chemistry A-Level Revision": {
     "Topics": {
-      "Chemistry A-Level Revision": "https://revisionworld.com/a2-level-level-revision/chemistry-level-revision"
+      "Chemistry A-Level Revision": {
+        "url": "https://revisionworld.com/a2-level-level-revision/chemistry-level-revision",
+        "slug": "chemistry-a-level-revision"
+      }
     },
     "Subtopics": {
       "Chemistry A-Level Revision": [
-        "Aromatics, Amines, Amino Acids,Polymers",
-        "Atomic Structure",
-        "Atoms, Moles & Equations",
-        "Bonding and Structure",
-        "Chemical Equilibrium",
-        "DOWNLOAD Zone",
-        "Directing groups and activating groups in benzene",
-        "Energy Changes",
-        "Isomerism, Aldehydes, Ketones, Carboxylic Acids",
-        "Organic Chemistry",
-        "Possible University Interview Questions",
-        "QUESTIONS",
-        "Spectroscopy & Spectrometry",
-        "The Periodic Table"
+        {
+          "name": "Aromatics, Amines, Amino Acids,Polymers",
+          "slug": "aromatics-amines-amino-acids-polymers"
+        },
+        {
+          "name": "Atomic Structure",
+          "slug": "atomic-structure"
+        },
+        {
+          "name": "Atoms, Moles & Equations",
+          "slug": "atoms-moles-equations"
+        },
+        {
+          "name": "Bonding and Structure",
+          "slug": "bonding-and-structure"
+        },
+        {
+          "name": "Chemical Equilibrium",
+          "slug": "chemical-equilibrium"
+        },
+        {
+          "name": "DOWNLOAD Zone",
+          "slug": "download-zone"
+        },
+        {
+          "name": "Directing groups and activating groups in benzene",
+          "slug": "directing-groups-and-activating-groups-in-benzene"
+        },
+        {
+          "name": "Energy Changes",
+          "slug": "energy-changes"
+        },
+        {
+          "name": "Isomerism, Aldehydes, Ketones, Carboxylic Acids",
+          "slug": "isomerism-aldehydes-ketones-carboxylic-acids"
+        },
+        {
+          "name": "Organic Chemistry",
+          "slug": "organic-chemistry"
+        },
+        {
+          "name": "Possible University Interview Questions",
+          "slug": "possible-university-interview-questions"
+        },
+        {
+          "name": "QUESTIONS",
+          "slug": "questions"
+        },
+        {
+          "name": "Spectroscopy & Spectrometry",
+          "slug": "spectroscopy-spectrometry"
+        },
+        {
+          "name": "The Periodic Table",
+          "slug": "the-periodic-table"
+        }
       ]
     }
   },
   "Drama (GCSE & A-Level)": {
     "Topics": {
-      "Drama (GCSE & A-Level)": "https://revisionworld.com/a2-level-level-revision/drama-gcse-level"
+      "Drama (GCSE & A-Level)": {
+        "url": "https://revisionworld.com/a2-level-level-revision/drama-gcse-level",
+        "slug": "drama-gcse-a-level"
+      }
     },
     "Subtopics": {
       "Drama (GCSE & A-Level)": [
-        "Creating Characters",
-        "Drama and Theatre Studies A-Level Past Papers",
-        "Endings",
-        "Opening Scenes",
-        "Plot & Structure",
-        "Sample Questions",
-        "Text & Context",
-        "The Nature of Drama Texts",
-        "Themes & Issues"
+        {
+          "name": "Creating Characters",
+          "slug": "creating-characters"
+        },
+        {
+          "name": "Drama and Theatre Studies A-Level Past Papers",
+          "slug": "drama-and-theatre-studies-a-level-past-papers"
+        },
+        {
+          "name": "Endings",
+          "slug": "endings"
+        },
+        {
+          "name": "Opening Scenes",
+          "slug": "opening-scenes"
+        },
+        {
+          "name": "Plot & Structure",
+          "slug": "plot-structure"
+        },
+        {
+          "name": "Sample Questions",
+          "slug": "sample-questions"
+        },
+        {
+          "name": "Text & Context",
+          "slug": "text-context"
+        },
+        {
+          "name": "The Nature of Drama Texts",
+          "slug": "the-nature-of-drama-texts"
+        },
+        {
+          "name": "Themes & Issues",
+          "slug": "themes-issues"
+        }
       ]
     }
   },
   "Economics A-Level Revision": {
     "Topics": {
-      "Economics A-Level Revision": "https://revisionworld.com/a2-level-level-revision/economics-level-revision"
+      "Economics A-Level Revision": {
+        "url": "https://revisionworld.com/a2-level-level-revision/economics-level-revision",
+        "slug": "economics-a-level-revision"
+      }
     },
     "Subtopics": {
       "Economics A-Level Revision": [
-        "Business Economics & Markets",
-        "DOWNLOAD Zone",
-        "Economics A-Level Past Papers",
-        "Goverment Policies",
-        "Key Terms",
-        "Markets and Market Failure",
-        "Markets at Work",
-        "The National Economy"
+        {
+          "name": "Business Economics & Markets",
+          "slug": "business-economics-markets"
+        },
+        {
+          "name": "DOWNLOAD Zone",
+          "slug": "download-zone"
+        },
+        {
+          "name": "Economics A-Level Past Papers",
+          "slug": "economics-a-level-past-papers"
+        },
+        {
+          "name": "Goverment Policies",
+          "slug": "goverment-policies"
+        },
+        {
+          "name": "Key Terms",
+          "slug": "key-terms"
+        },
+        {
+          "name": "Markets and Market Failure",
+          "slug": "markets-and-market-failure"
+        },
+        {
+          "name": "Markets at Work",
+          "slug": "markets-at-work"
+        },
+        {
+          "name": "The National Economy",
+          "slug": "the-national-economy"
+        }
       ]
     }
   },
   "English Language GCSE & A-Level": {
     "Topics": {
-      "English Language GCSE & A-Level": "https://revisionworld.com/a2-level-level-revision/english-language-gcse-level"
+      "English Language GCSE & A-Level": {
+        "url": "https://revisionworld.com/a2-level-level-revision/english-language-gcse-level",
+        "slug": "english-language-gcse-a-level"
+      }
     },
     "Subtopics": {
       "English Language GCSE & A-Level": [
-        "Analysing Fiction Texts",
-        "Analysing Non Fiction Texts",
-        "Child Language Acquisition",
-        "Context in Literature",
-        "English Language A-Level Past Papers",
-        "English Language GCSE Past Papers",
-        "Essay Writing Tips",
-        "Groupings",
-        "Language Analysis",
-        "Language Change",
-        "Language and Gender",
-        "Language and Power",
-        "Language and Technology"
+        {
+          "name": "Analysing Fiction Texts",
+          "slug": "analysing-fiction-texts"
+        },
+        {
+          "name": "Analysing Non Fiction Texts",
+          "slug": "analysing-non-fiction-texts"
+        },
+        {
+          "name": "Child Language Acquisition",
+          "slug": "child-language-acquisition"
+        },
+        {
+          "name": "Context in Literature",
+          "slug": "context-in-literature"
+        },
+        {
+          "name": "English Language A-Level Past Papers",
+          "slug": "english-language-a-level-past-papers"
+        },
+        {
+          "name": "English Language GCSE Past Papers",
+          "slug": "english-language-gcse-past-papers"
+        },
+        {
+          "name": "Essay Writing Tips",
+          "slug": "essay-writing-tips"
+        },
+        {
+          "name": "Groupings",
+          "slug": "groupings"
+        },
+        {
+          "name": "Language Analysis",
+          "slug": "language-analysis"
+        },
+        {
+          "name": "Language Change",
+          "slug": "language-change"
+        },
+        {
+          "name": "Language and Gender",
+          "slug": "language-and-gender"
+        },
+        {
+          "name": "Language and Power",
+          "slug": "language-and-power"
+        },
+        {
+          "name": "Language and Technology",
+          "slug": "language-and-technology"
+        }
       ]
     }
   },
   "English Literature GCSE & A-Level": {
     "Topics": {
-      "English Literature GCSE & A-Level": "https://revisionworld.com/a2-level-level-revision/english-literature-gcse-level"
+      "English Literature GCSE & A-Level": {
+        "url": "https://revisionworld.com/a2-level-level-revision/english-literature-gcse-level",
+        "slug": "english-literature-gcse-a-level"
+      }
     },
     "Subtopics": {
       "English Literature GCSE & A-Level": [
-        "A Christmas Carol (Charles Dickens)",
-        "A Kestrel for a Knave (Barry Hines)",
-        "An Inspector Calls (J. B. Priestley)",
-        "Animal Farm (George Orwell)",
-        "Anita and Me (Meera Syal)",
-        "Blood Brothers (Willy Russell)",
-        "CONTEXT IN LITERATURE",
-        "DNA (Dennis Kelly)",
-        "DOWNLOAD ZONE",
-        "Dr Jekyll and Mr Hyde (Robert Louis Stevenson)",
-        "EXAM TIPS",
-        "English Literature A-Level Past Papers",
-        "English Literature GCSE Past Papers",
-        "Essay writing TIPS",
-        "Frankenstein (Mary Shelley)",
-        "Great Expectations (Charles Dickens)",
-        "Hamlet (William Shakespeare)",
-        "Jane Eyre (Charlotte Bronte)",
-        "LITERARY TERMS",
-        "Lord of the Flies (William Golding)",
-        "Macbeth (William Shakespeare)",
-        "Much Ado About Nothing (Shakespeare)",
-        "Never Let Me Go (Kazuo Ishiguro)",
-        "Of Mice and Men (John Steinbeck)",
-        "POETRY",
-        "PROSE",
-        "Pride and Prejudice (Jane Austen)",
-        "Reading Shakespeare",
-        "Romeo & Juliet (William Shakespeare)",
-        "She Stoops to Conquer (O.Goldsmith)",
-        "Short Stories",
-        "Spies (Michael Frayn)",
-        "The Tempest (William Shakespeare)",
-        "The War of the Worlds (H.G. Wells)",
-        "The Winter's Tale (Shakespeare)",
-        "The Woman in Black (Susan Hill)",
-        "To Kill a Mockingbird (Harper Lee)"
+        {
+          "name": "A Christmas Carol (Charles Dickens)",
+          "slug": "a-christmas-carol-charles-dickens"
+        },
+        {
+          "name": "A Kestrel for a Knave (Barry Hines)",
+          "slug": "a-kestrel-for-a-knave-barry-hines"
+        },
+        {
+          "name": "An Inspector Calls (J. B. Priestley)",
+          "slug": "an-inspector-calls-j-b-priestley"
+        },
+        {
+          "name": "Animal Farm (George Orwell)",
+          "slug": "animal-farm-george-orwell"
+        },
+        {
+          "name": "Anita and Me (Meera Syal)",
+          "slug": "anita-and-me-meera-syal"
+        },
+        {
+          "name": "Blood Brothers (Willy Russell)",
+          "slug": "blood-brothers-willy-russell"
+        },
+        {
+          "name": "CONTEXT IN LITERATURE",
+          "slug": "context-in-literature"
+        },
+        {
+          "name": "DNA (Dennis Kelly)",
+          "slug": "dna-dennis-kelly"
+        },
+        {
+          "name": "DOWNLOAD ZONE",
+          "slug": "download-zone"
+        },
+        {
+          "name": "Dr Jekyll and Mr Hyde (Robert Louis Stevenson)",
+          "slug": "dr-jekyll-and-mr-hyde-robert-louis-stevenson"
+        },
+        {
+          "name": "EXAM TIPS",
+          "slug": "exam-tips"
+        },
+        {
+          "name": "English Literature A-Level Past Papers",
+          "slug": "english-literature-a-level-past-papers"
+        },
+        {
+          "name": "English Literature GCSE Past Papers",
+          "slug": "english-literature-gcse-past-papers"
+        },
+        {
+          "name": "Essay writing TIPS",
+          "slug": "essay-writing-tips"
+        },
+        {
+          "name": "Frankenstein (Mary Shelley)",
+          "slug": "frankenstein-mary-shelley"
+        },
+        {
+          "name": "Great Expectations (Charles Dickens)",
+          "slug": "great-expectations-charles-dickens"
+        },
+        {
+          "name": "Hamlet (William Shakespeare)",
+          "slug": "hamlet-william-shakespeare"
+        },
+        {
+          "name": "Jane Eyre (Charlotte Bronte)",
+          "slug": "jane-eyre-charlotte-bronte"
+        },
+        {
+          "name": "LITERARY TERMS",
+          "slug": "literary-terms"
+        },
+        {
+          "name": "Lord of the Flies (William Golding)",
+          "slug": "lord-of-the-flies-william-golding"
+        },
+        {
+          "name": "Macbeth (William Shakespeare)",
+          "slug": "macbeth-william-shakespeare"
+        },
+        {
+          "name": "Much Ado About Nothing (Shakespeare)",
+          "slug": "much-ado-about-nothing-shakespeare"
+        },
+        {
+          "name": "Never Let Me Go (Kazuo Ishiguro)",
+          "slug": "never-let-me-go-kazuo-ishiguro"
+        },
+        {
+          "name": "Of Mice and Men (John Steinbeck)",
+          "slug": "of-mice-and-men-john-steinbeck"
+        },
+        {
+          "name": "POETRY",
+          "slug": "poetry"
+        },
+        {
+          "name": "PROSE",
+          "slug": "prose"
+        },
+        {
+          "name": "Pride and Prejudice (Jane Austen)",
+          "slug": "pride-and-prejudice-jane-austen"
+        },
+        {
+          "name": "Reading Shakespeare",
+          "slug": "reading-shakespeare"
+        },
+        {
+          "name": "Romeo & Juliet (William Shakespeare)",
+          "slug": "romeo-juliet-william-shakespeare"
+        },
+        {
+          "name": "She Stoops to Conquer (O.Goldsmith)",
+          "slug": "she-stoops-to-conquer-o-goldsmith"
+        },
+        {
+          "name": "Short Stories",
+          "slug": "short-stories"
+        },
+        {
+          "name": "Spies (Michael Frayn)",
+          "slug": "spies-michael-frayn"
+        },
+        {
+          "name": "The Tempest (William Shakespeare)",
+          "slug": "the-tempest-william-shakespeare"
+        },
+        {
+          "name": "The War of the Worlds (H.G. Wells)",
+          "slug": "the-war-of-the-worlds-h-g-wells"
+        },
+        {
+          "name": "The Winter's Tale (Shakespeare)",
+          "slug": "the-winter-s-tale-shakespeare"
+        },
+        {
+          "name": "The Woman in Black (Susan Hill)",
+          "slug": "the-woman-in-black-susan-hill"
+        },
+        {
+          "name": "To Kill a Mockingbird (Harper Lee)",
+          "slug": "to-kill-a-mockingbird-harper-lee"
+        }
       ]
     }
   },
   "Exam Revision Tips and Advice": {
     "Topics": {
-      "Exam Revision Tips and Advice": "https://revisionworld.com/a2-level-level-revision/exam-tips-and-advice"
+      "Exam Revision Tips and Advice": {
+        "url": "https://revisionworld.com/a2-level-level-revision/exam-tips-and-advice",
+        "slug": "exam-revision-tips-and-advice"
+      }
     },
     "Subtopics": {
       "Exam Revision Tips and Advice": [
-        "Before the Exam",
-        "Exam Past Papers our Top Tips",
-        "Exam Preparation Strategies",
-        "GCSE Parents' Guide",
-        "Helpful Hints for Parents",
-        "How to be Productive with your Revision",
-        "In the Exam",
-        "Med Success Future Doctors Virtual Summit",
-        "Mock Exams & Past Papers",
-        "Preparing for Exams",
-        "The Student Guide to Revision",
-        "Top 10 tips for avoiding exam stress",
-        "Top Revision Tips",
-        "Top Revision Tips for Students"
+        {
+          "name": "Before the Exam",
+          "slug": "before-the-exam"
+        },
+        {
+          "name": "Exam Past Papers our Top Tips",
+          "slug": "exam-past-papers-our-top-tips"
+        },
+        {
+          "name": "Exam Preparation Strategies",
+          "slug": "exam-preparation-strategies"
+        },
+        {
+          "name": "GCSE Parents' Guide",
+          "slug": "gcse-parents-guide"
+        },
+        {
+          "name": "Helpful Hints for Parents",
+          "slug": "helpful-hints-for-parents"
+        },
+        {
+          "name": "How to be Productive with your Revision",
+          "slug": "how-to-be-productive-with-your-revision"
+        },
+        {
+          "name": "In the Exam",
+          "slug": "in-the-exam"
+        },
+        {
+          "name": "Med Success Future Doctors Virtual Summit",
+          "slug": "med-success-future-doctors-virtual-summit"
+        },
+        {
+          "name": "Mock Exams & Past Papers",
+          "slug": "mock-exams-past-papers"
+        },
+        {
+          "name": "Preparing for Exams",
+          "slug": "preparing-for-exams"
+        },
+        {
+          "name": "The Student Guide to Revision",
+          "slug": "the-student-guide-to-revision"
+        },
+        {
+          "name": "Top 10 tips for avoiding exam stress",
+          "slug": "top-10-tips-for-avoiding-exam-stress"
+        },
+        {
+          "name": "Top Revision Tips",
+          "slug": "top-revision-tips"
+        },
+        {
+          "name": "Top Revision Tips for Students",
+          "slug": "top-revision-tips-for-students"
+        }
       ]
     }
   },
   "Geography A-Level Revision": {
     "Topics": {
-      "Geography A-Level Revision": "https://revisionworld.com/a2-level-level-revision/geography-level-revision"
+      "Geography A-Level Revision": {
+        "url": "https://revisionworld.com/a2-level-level-revision/geography-level-revision",
+        "slug": "geography-a-level-revision"
+      }
     },
     "Subtopics": {
       "Geography A-Level Revision": [
-        "Arid and Semi Arid Environments",
-        "Challenge of the Atmosphere",
-        "Coastal Environments",
-        "DOWNLOAD Zone",
-        "Different types of questions in Geography examinations",
-        "Exam Technique",
-        "Four steps to successful Geography revision",
-        "Geography A-Level Past Papers",
-        "Glacial Environments",
-        "Global Challenges and Issues",
-        "Population",
-        "Synoptic assessment"
+        {
+          "name": "Arid and Semi Arid Environments",
+          "slug": "arid-and-semi-arid-environments"
+        },
+        {
+          "name": "Challenge of the Atmosphere",
+          "slug": "challenge-of-the-atmosphere"
+        },
+        {
+          "name": "Coastal Environments",
+          "slug": "coastal-environments"
+        },
+        {
+          "name": "DOWNLOAD Zone",
+          "slug": "download-zone"
+        },
+        {
+          "name": "Different types of questions in Geography examinations",
+          "slug": "different-types-of-questions-in-geography-examinations"
+        },
+        {
+          "name": "Exam Technique",
+          "slug": "exam-technique"
+        },
+        {
+          "name": "Four steps to successful Geography revision",
+          "slug": "four-steps-to-successful-geography-revision"
+        },
+        {
+          "name": "Geography A-Level Past Papers",
+          "slug": "geography-a-level-past-papers"
+        },
+        {
+          "name": "Glacial Environments",
+          "slug": "glacial-environments"
+        },
+        {
+          "name": "Global Challenges and Issues",
+          "slug": "global-challenges-and-issues"
+        },
+        {
+          "name": "Population",
+          "slug": "population"
+        },
+        {
+          "name": "Synoptic assessment",
+          "slug": "synoptic-assessment"
+        }
       ]
     }
   },
   "History GCSE & A-Level Revision": {
     "Topics": {
-      "History GCSE & A-Level Revision": "https://revisionworld.com/a2-level-level-revision/history-gcse-level"
+      "History GCSE & A-Level Revision": {
+        "url": "https://revisionworld.com/a2-level-level-revision/history-gcse-level",
+        "slug": "history-gcse-a-level-revision"
+      }
     },
     "Subtopics": {
       "History GCSE & A-Level Revision": [
-        "18th Century Europe",
-        "19th Century Europe",
-        "19th Century Great Britain",
-        "20th Century Europe",
-        "20th Century USA",
-        "AS & A2 History Exam Tips & Advice",
-        "British Politics",
-        "History A-Level Past Papers",
-        "History Exam Tips",
-        "History GCSE Past Papers",
-        "Ireland",
-        "Russia: Communism (1918-1991)",
-        "Russia: Tsarism (1721-1917)",
-        "Tudors & Stuarts",
-        "World History (Post 1945)",
-        "World War One (1914-1918)",
-        "World War Two (1939-1945)"
+        {
+          "name": "18th Century Europe",
+          "slug": "18th-century-europe"
+        },
+        {
+          "name": "19th Century Europe",
+          "slug": "19th-century-europe"
+        },
+        {
+          "name": "19th Century Great Britain",
+          "slug": "19th-century-great-britain"
+        },
+        {
+          "name": "20th Century Europe",
+          "slug": "20th-century-europe"
+        },
+        {
+          "name": "20th Century USA",
+          "slug": "20th-century-usa"
+        },
+        {
+          "name": "AS & A2 History Exam Tips & Advice",
+          "slug": "as-a2-history-exam-tips-advice"
+        },
+        {
+          "name": "British Politics",
+          "slug": "british-politics"
+        },
+        {
+          "name": "History A-Level Past Papers",
+          "slug": "history-a-level-past-papers"
+        },
+        {
+          "name": "History Exam Tips",
+          "slug": "history-exam-tips"
+        },
+        {
+          "name": "History GCSE Past Papers",
+          "slug": "history-gcse-past-papers"
+        },
+        {
+          "name": "Ireland",
+          "slug": "ireland"
+        },
+        {
+          "name": "Russia: Communism (1918-1991)",
+          "slug": "russia-communism-1918-1991"
+        },
+        {
+          "name": "Russia: Tsarism (1721-1917)",
+          "slug": "russia-tsarism-1721-1917"
+        },
+        {
+          "name": "Tudors & Stuarts",
+          "slug": "tudors-stuarts"
+        },
+        {
+          "name": "World History (Post 1945)",
+          "slug": "world-history-post-1945"
+        },
+        {
+          "name": "World War One (1914-1918)",
+          "slug": "world-war-one-1914-1918"
+        },
+        {
+          "name": "World War Two (1939-1945)",
+          "slug": "world-war-two-1939-1945"
+        }
       ]
     }
   },
   "Human Biology A-Level Revision": {
     "Topics": {
-      "Human Biology A-Level Revision": "https://revisionworld.com/a2-level-level-revision/human-biology-level-revision"
+      "Human Biology A-Level Revision": {
+        "url": "https://revisionworld.com/a2-level-level-revision/human-biology-level-revision",
+        "slug": "human-biology-a-level-revision"
+      }
     },
     "Subtopics": {
       "Human Biology A-Level Revision": [
-        "Year One AS Level",
-        "Year Two A2"
+        {
+          "name": "Year One AS Level",
+          "slug": "year-one-as-level"
+        },
+        {
+          "name": "Year Two A2",
+          "slug": "year-two-a2"
+        }
       ]
     }
   },
   "Law A-Level Revision": {
     "Topics": {
-      "Law A-Level Revision": "https://revisionworld.com/a2-level-level-revision/law-level-revision"
+      "Law A-Level Revision": {
+        "url": "https://revisionworld.com/a2-level-level-revision/law-level-revision",
+        "slug": "law-a-level-revision"
+      }
     },
     "Subtopics": {
       "Law A-Level Revision": [
-        "British Legal System Timeline",
-        "Civil Disobedience",
-        "Civil Liability",
-        "Delegated Legislation",
-        "Freedom of Expression",
-        "Justice",
-        "Law",
-        "Law A-Level Past Papers",
-        "Legal Professionals",
-        "Negligence Tort Law",
-        "Obligation",
-        "Order",
-        "Police Powers",
-        "Private Nuisance Tort Law",
-        "Sample Questions",
-        "Sources of Law",
-        "The Court System"
+        {
+          "name": "British Legal System Timeline",
+          "slug": "british-legal-system-timeline"
+        },
+        {
+          "name": "Civil Disobedience",
+          "slug": "civil-disobedience"
+        },
+        {
+          "name": "Civil Liability",
+          "slug": "civil-liability"
+        },
+        {
+          "name": "Delegated Legislation",
+          "slug": "delegated-legislation"
+        },
+        {
+          "name": "Freedom of Expression",
+          "slug": "freedom-of-expression"
+        },
+        {
+          "name": "Justice",
+          "slug": "justice"
+        },
+        {
+          "name": "Law",
+          "slug": "law"
+        },
+        {
+          "name": "Law A-Level Past Papers",
+          "slug": "law-a-level-past-papers"
+        },
+        {
+          "name": "Legal Professionals",
+          "slug": "legal-professionals"
+        },
+        {
+          "name": "Negligence Tort Law",
+          "slug": "negligence-tort-law"
+        },
+        {
+          "name": "Obligation",
+          "slug": "obligation"
+        },
+        {
+          "name": "Order",
+          "slug": "order"
+        },
+        {
+          "name": "Police Powers",
+          "slug": "police-powers"
+        },
+        {
+          "name": "Private Nuisance Tort Law",
+          "slug": "private-nuisance-tort-law"
+        },
+        {
+          "name": "Sample Questions",
+          "slug": "sample-questions"
+        },
+        {
+          "name": "Sources of Law",
+          "slug": "sources-of-law"
+        },
+        {
+          "name": "The Court System",
+          "slug": "the-court-system"
+        }
       ]
     }
   },
   "Maths A-Level Revision": {
     "Topics": {
-      "Maths A-Level Revision": "https://revisionworld.com/a2-level-level-revision/maths-level-revision"
+      "Maths A-Level Revision": {
+        "url": "https://revisionworld.com/a2-level-level-revision/maths-level-revision",
+        "slug": "maths-a-level-revision"
+      }
     },
     "Subtopics": {
       "Maths A-Level Revision": [
-        "A-Level Maths Past Papers",
-        "Decision Maths",
-        "Mathematical Formulae",
-        "Mathematics Courses",
-        "Mechanics",
-        "Pure Mathematics",
-        "Statistics"
+        {
+          "name": "A-Level Maths Past Papers",
+          "slug": "a-level-maths-past-papers"
+        },
+        {
+          "name": "Decision Maths",
+          "slug": "decision-maths"
+        },
+        {
+          "name": "Mathematical Formulae",
+          "slug": "mathematical-formulae"
+        },
+        {
+          "name": "Mathematics Courses",
+          "slug": "mathematics-courses"
+        },
+        {
+          "name": "Mechanics",
+          "slug": "mechanics"
+        },
+        {
+          "name": "Pure Mathematics",
+          "slug": "pure-mathematics"
+        },
+        {
+          "name": "Statistics",
+          "slug": "statistics"
+        }
       ]
     }
   },
   "Media Studies A-Level Revision": {
     "Topics": {
-      "Media Studies A-Level Revision": "https://revisionworld.com/a2-level-level-revision/media-studies-level-revision"
+      "Media Studies A-Level Revision": {
+        "url": "https://revisionworld.com/a2-level-level-revision/media-studies-level-revision",
+        "slug": "media-studies-a-level-revision"
+      }
     },
     "Subtopics": {
       "Media Studies A-Level Revision": [
-        "Audience Engagement Theory",
-        "Cultivation Theory",
-        "Genre Theory",
-        "Hypodermic Needle theory",
-        "Key Media Studies Theorists",
-        "Media Studies A-Level Past Papers",
-        "Moral Panic Theory",
-        "Post Modern Theory",
-        "Print Advert – Tide Case Study",
-        "Reception Theory",
-        "Two - Step Flow Theory",
-        "Uses and Gratifications Theory"
+        {
+          "name": "Audience Engagement Theory",
+          "slug": "audience-engagement-theory"
+        },
+        {
+          "name": "Cultivation Theory",
+          "slug": "cultivation-theory"
+        },
+        {
+          "name": "Genre Theory",
+          "slug": "genre-theory"
+        },
+        {
+          "name": "Hypodermic Needle theory",
+          "slug": "hypodermic-needle-theory"
+        },
+        {
+          "name": "Key Media Studies Theorists",
+          "slug": "key-media-studies-theorists"
+        },
+        {
+          "name": "Media Studies A-Level Past Papers",
+          "slug": "media-studies-a-level-past-papers"
+        },
+        {
+          "name": "Moral Panic Theory",
+          "slug": "moral-panic-theory"
+        },
+        {
+          "name": "Post Modern Theory",
+          "slug": "post-modern-theory"
+        },
+        {
+          "name": "Print Advert – Tide Case Study",
+          "slug": "print-advert-tide-case-study"
+        },
+        {
+          "name": "Reception Theory",
+          "slug": "reception-theory"
+        },
+        {
+          "name": "Two - Step Flow Theory",
+          "slug": "two-step-flow-theory"
+        },
+        {
+          "name": "Uses and Gratifications Theory",
+          "slug": "uses-and-gratifications-theory"
+        }
       ]
     }
   },
   "Physical Education A-Level Revision": {
     "Topics": {
-      "Physical Education A-Level Revision": "https://revisionworld.com/a2-level-level-revision/physical-education-level-revision"
+      "Physical Education A-Level Revision": {
+        "url": "https://revisionworld.com/a2-level-level-revision/physical-education-level-revision",
+        "slug": "physical-education-a-level-revision"
+      }
     },
     "Subtopics": {
       "Physical Education A-Level Revision": [
-        "Arousal",
-        "DOWNLOAD Zone",
-        "Deviance in Sport (Coakley)",
-        "Motion and Mechanics",
-        "PE A-Level Past Papers",
-        "Personality Theories",
-        "Sport and the Media",
-        "Stress & Anxiety",
-        "Stress Management"
+        {
+          "name": "Arousal",
+          "slug": "arousal"
+        },
+        {
+          "name": "DOWNLOAD Zone",
+          "slug": "download-zone"
+        },
+        {
+          "name": "Deviance in Sport (Coakley)",
+          "slug": "deviance-in-sport-coakley"
+        },
+        {
+          "name": "Motion and Mechanics",
+          "slug": "motion-and-mechanics"
+        },
+        {
+          "name": "PE A-Level Past Papers",
+          "slug": "pe-a-level-past-papers"
+        },
+        {
+          "name": "Personality Theories",
+          "slug": "personality-theories"
+        },
+        {
+          "name": "Sport and the Media",
+          "slug": "sport-and-the-media"
+        },
+        {
+          "name": "Stress & Anxiety",
+          "slug": "stress-anxiety"
+        },
+        {
+          "name": "Stress Management",
+          "slug": "stress-management"
+        }
       ]
     }
   },
   "Physics A-Level Revision": {
     "Topics": {
-      "Physics A-Level Revision": "https://revisionworld.com/a2-level-level-revision/physics-level-revision"
+      "Physics A-Level Revision": {
+        "url": "https://revisionworld.com/a2-level-level-revision/physics-level-revision",
+        "slug": "physics-a-level-revision"
+      }
     },
     "Subtopics": {
       "Physics A-Level Revision": [
-        "Applied Physics",
-        "Current Electricity",
-        "DOWNLOAD Zone",
-        "Elastic Properties of Solids",
-        "Fields",
-        "Force & Motion",
-        "Particles, Radiation & Quantum Phenomena",
-        "Physics Courses"
+        {
+          "name": "Applied Physics",
+          "slug": "applied-physics"
+        },
+        {
+          "name": "Current Electricity",
+          "slug": "current-electricity"
+        },
+        {
+          "name": "DOWNLOAD Zone",
+          "slug": "download-zone"
+        },
+        {
+          "name": "Elastic Properties of Solids",
+          "slug": "elastic-properties-of-solids"
+        },
+        {
+          "name": "Fields",
+          "slug": "fields"
+        },
+        {
+          "name": "Force & Motion",
+          "slug": "force-motion"
+        },
+        {
+          "name": "Particles, Radiation & Quantum Phenomena",
+          "slug": "particles-radiation-quantum-phenomena"
+        },
+        {
+          "name": "Physics Courses",
+          "slug": "physics-courses"
+        }
       ]
     }
   },
   "Politics A-Level Revision": {
     "Topics": {
-      "Politics A-Level Revision": "https://revisionworld.com/a2-level-level-revision/government-politics-level-revision"
+      "Politics A-Level Revision": {
+        "url": "https://revisionworld.com/a2-level-level-revision/government-politics-level-revision",
+        "slug": "politics-a-level-revision"
+      }
     },
     "Subtopics": {
       "Politics A-Level Revision": [
-        "Conservatism",
-        "Conservatism in Practice",
-        "Conservative Theory",
-        "Democratic Theory",
-        "Democratic Theory in Practice",
-        "Ecologism Theory",
-        "Electoral Systems & Referenda",
-        "European Union (EU)",
-        "Feminism Theory",
-        "Liberalism Theory",
-        "Liberalism in Practice",
-        "Marxism",
-        "Nationalism Theory",
-        "Nationalism in Practice",
-        "Political Parties (UK)",
-        "Politics A-Level Past Papers",
-        "Power, Authority & Legitimacy Theory",
-        "Power, Authority & Legitimacy in Practice",
-        "Pressure Groups / Protest Movements",
-        "Religious Fundamentalism Theory",
-        "Rights, Liberty and Equality",
-        "Socialism Theory",
-        "Socialism in Practice",
-        "Types of Socialism",
-        "UK Government Constitution",
-        "UK Government Executives",
-        "UK Government Judiciary",
-        "UK Government Legislatures",
-        "Voting Behaviour in the UK"
+        {
+          "name": "Conservatism",
+          "slug": "conservatism"
+        },
+        {
+          "name": "Conservatism in Practice",
+          "slug": "conservatism-in-practice"
+        },
+        {
+          "name": "Conservative Theory",
+          "slug": "conservative-theory"
+        },
+        {
+          "name": "Democratic Theory",
+          "slug": "democratic-theory"
+        },
+        {
+          "name": "Democratic Theory in Practice",
+          "slug": "democratic-theory-in-practice"
+        },
+        {
+          "name": "Ecologism Theory",
+          "slug": "ecologism-theory"
+        },
+        {
+          "name": "Electoral Systems & Referenda",
+          "slug": "electoral-systems-referenda"
+        },
+        {
+          "name": "European Union (EU)",
+          "slug": "european-union-eu"
+        },
+        {
+          "name": "Feminism Theory",
+          "slug": "feminism-theory"
+        },
+        {
+          "name": "Liberalism Theory",
+          "slug": "liberalism-theory"
+        },
+        {
+          "name": "Liberalism in Practice",
+          "slug": "liberalism-in-practice"
+        },
+        {
+          "name": "Marxism",
+          "slug": "marxism"
+        },
+        {
+          "name": "Nationalism Theory",
+          "slug": "nationalism-theory"
+        },
+        {
+          "name": "Nationalism in Practice",
+          "slug": "nationalism-in-practice"
+        },
+        {
+          "name": "Political Parties (UK)",
+          "slug": "political-parties-uk"
+        },
+        {
+          "name": "Politics A-Level Past Papers",
+          "slug": "politics-a-level-past-papers"
+        },
+        {
+          "name": "Power, Authority & Legitimacy Theory",
+          "slug": "power-authority-legitimacy-theory"
+        },
+        {
+          "name": "Power, Authority & Legitimacy in Practice",
+          "slug": "power-authority-legitimacy-in-practice"
+        },
+        {
+          "name": "Pressure Groups / Protest Movements",
+          "slug": "pressure-groups-protest-movements"
+        },
+        {
+          "name": "Religious Fundamentalism Theory",
+          "slug": "religious-fundamentalism-theory"
+        },
+        {
+          "name": "Rights, Liberty and Equality",
+          "slug": "rights-liberty-and-equality"
+        },
+        {
+          "name": "Socialism Theory",
+          "slug": "socialism-theory"
+        },
+        {
+          "name": "Socialism in Practice",
+          "slug": "socialism-in-practice"
+        },
+        {
+          "name": "Types of Socialism",
+          "slug": "types-of-socialism"
+        },
+        {
+          "name": "UK Government Constitution",
+          "slug": "uk-government-constitution"
+        },
+        {
+          "name": "UK Government Executives",
+          "slug": "uk-government-executives"
+        },
+        {
+          "name": "UK Government Judiciary",
+          "slug": "uk-government-judiciary"
+        },
+        {
+          "name": "UK Government Legislatures",
+          "slug": "uk-government-legislatures"
+        },
+        {
+          "name": "Voting Behaviour in the UK",
+          "slug": "voting-behaviour-in-the-uk"
+        }
       ]
     }
   },
   "Psychology A-Level Revision": {
     "Topics": {
-      "Psychology A-Level Revision": "https://revisionworld.com/a2-level-level-revision/psychology-level-revision"
+      "Psychology A-Level Revision": {
+        "url": "https://revisionworld.com/a2-level-level-revision/psychology-level-revision",
+        "slug": "psychology-a-level-revision"
+      }
     },
     "Subtopics": {
       "Psychology A-Level Revision": [
-        "A-Level Psychology Past Papers",
-        "Approaches to Psychology",
-        "Attachment",
-        "DOWNLOAD Zone",
-        "Forensic Psychology",
-        "Health & Clinical Psychology",
-        "Key Studies",
-        "Key Terms",
-        "Memory",
-        "Research Methods",
-        "Social Psychology",
-        "Studying Psychology at University",
-        "Themes, Issues and Debates"
+        {
+          "name": "A-Level Psychology Past Papers",
+          "slug": "a-level-psychology-past-papers"
+        },
+        {
+          "name": "Approaches to Psychology",
+          "slug": "approaches-to-psychology"
+        },
+        {
+          "name": "Attachment",
+          "slug": "attachment"
+        },
+        {
+          "name": "DOWNLOAD Zone",
+          "slug": "download-zone"
+        },
+        {
+          "name": "Forensic Psychology",
+          "slug": "forensic-psychology"
+        },
+        {
+          "name": "Health & Clinical Psychology",
+          "slug": "health-clinical-psychology"
+        },
+        {
+          "name": "Key Studies",
+          "slug": "key-studies"
+        },
+        {
+          "name": "Key Terms",
+          "slug": "key-terms"
+        },
+        {
+          "name": "Memory",
+          "slug": "memory"
+        },
+        {
+          "name": "Research Methods",
+          "slug": "research-methods"
+        },
+        {
+          "name": "Social Psychology",
+          "slug": "social-psychology"
+        },
+        {
+          "name": "Studying Psychology at University",
+          "slug": "studying-psychology-at-university"
+        },
+        {
+          "name": "Themes, Issues and Debates",
+          "slug": "themes-issues-and-debates"
+        }
       ]
     }
   },
   "Religious Studies (RS) A-Level Revision": {
     "Topics": {
-      "Religious Studies (RS) A-Level Revision": "https://revisionworld.com/a2-level-level-revision/religious-studies-level-revision"
+      "Religious Studies (RS) A-Level Revision": {
+        "url": "https://revisionworld.com/a2-level-level-revision/religious-studies-level-revision",
+        "slug": "religious-studies-rs-a-level-revision"
+      }
     },
     "Subtopics": {
       "Religious Studies (RS) A-Level Revision": [
-        "DOWNLOAD Zone",
-        "Ethics",
-        "Philosophy of Religion",
-        "RS A-Level Past Papers"
+        {
+          "name": "DOWNLOAD Zone",
+          "slug": "download-zone"
+        },
+        {
+          "name": "Ethics",
+          "slug": "ethics"
+        },
+        {
+          "name": "Philosophy of Religion",
+          "slug": "philosophy-of-religion"
+        },
+        {
+          "name": "RS A-Level Past Papers",
+          "slug": "rs-a-level-past-papers"
+        }
       ]
     }
   },
   "Sociology A-Level Revision": {
     "Topics": {
-      "Sociology A-Level Revision": "https://revisionworld.com/a2-level-level-revision/sociology-level-revision"
+      "Sociology A-Level Revision": {
+        "url": "https://revisionworld.com/a2-level-level-revision/sociology-level-revision",
+        "slug": "sociology-a-level-revision"
+      }
     },
     "Subtopics": {
       "Sociology A-Level Revision": [
-        "A-Level Sociology Courses",
-        "Mass Media",
-        "Research Methods",
-        "Sociology A-Level Past Papers",
-        "The Family",
-        "World Sociology"
+        {
+          "name": "A-Level Sociology Courses",
+          "slug": "a-level-sociology-courses"
+        },
+        {
+          "name": "Mass Media",
+          "slug": "mass-media"
+        },
+        {
+          "name": "Research Methods",
+          "slug": "research-methods"
+        },
+        {
+          "name": "Sociology A-Level Past Papers",
+          "slug": "sociology-a-level-past-papers"
+        },
+        {
+          "name": "The Family",
+          "slug": "the-family"
+        },
+        {
+          "name": "World Sociology",
+          "slug": "world-sociology"
+        }
       ]
     }
   }

@@ -65,7 +65,7 @@ async function scrapeTopicsAndSubtopics(data) {
                 data[subject].Subtopics[topic] = [];
                 $('div.block-revision-study-resources-section-child-links ul li a').each((i, subtopicElement) => {
                     const subtopicName = $(subtopicElement).text().trim();
-                    if (subtopicName) {
+                    if (subtopicName && subtopicName !== "DOWNLOAD Zone") {
                         data[subject].Subtopics[topic].push({
                             name: subtopicName,
                             slug: generateSlug(subject, topic, subtopicName)
@@ -80,10 +80,23 @@ async function scrapeTopicsAndSubtopics(data) {
     }
 }
 
+function filterDownloadZone(data) {
+    for (const subject in data) {
+        for (const topic in data[subject].Subtopics) {
+            data[subject].Subtopics[topic] = data[subject].Subtopics[topic].filter(subtopic => 
+                subtopic.name.toLowerCase() !== "download zone" && 
+                subtopic.name.toLowerCase() !== "download"
+            );
+        }
+    }
+    return data;
+}
+
 async function main() {
     const data = await scrapeCategories();
     await scrapeTopicsAndSubtopics(data);
-    fs.writeFileSync('alevel_data.json', JSON.stringify(data, null, 2));
+    const filteredData = filterDownloadZone(data);
+    fs.writeFileSync('alevel_data.json', JSON.stringify(filteredData, null, 2));
     console.log('Data saved to alevel_data.json');
 }
 

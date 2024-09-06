@@ -68,10 +68,6 @@
           "slug": "a-level-biology-revision-control-in-animals-plants"
         },
         {
-          "name": "DOWNLOAD Zone",
-          "slug": "a-level-biology-revision-download-zone"
-        },
-        {
           "name": "Energy for Life",
           "slug": "a-level-biology-revision-energy-for-life"
         },
@@ -140,10 +136,6 @@
           "slug": "a-level-business-studies-revision-business-studies-past-papers"
         },
         {
-          "name": "DOWNLOAD Zone",
-          "slug": "a-level-business-studies-revision-download-zone"
-        },
-        {
           "name": "External Influences",
           "slug": "a-level-business-studies-revision-external-influences"
         },
@@ -198,10 +190,6 @@
         {
           "name": "Chemical Equilibrium",
           "slug": "a-level-chemistry-revision-chemical-equilibrium"
-        },
-        {
-          "name": "DOWNLOAD Zone",
-          "slug": "a-level-chemistry-revision-download-zone"
         },
         {
           "name": "Directing groups and activating groups in benzene",
@@ -298,10 +286,6 @@
         {
           "name": "Business Economics & Markets",
           "slug": "a-level-economics-revision-business-economics-markets"
-        },
-        {
-          "name": "DOWNLOAD Zone",
-          "slug": "a-level-economics-revision-download-zone"
         },
         {
           "name": "Economics A-Level Past Papers",
@@ -434,10 +418,6 @@
         {
           "name": "DNA (Dennis Kelly)",
           "slug": "a-level-english-literature-dna-dennis-kelly"
-        },
-        {
-          "name": "DOWNLOAD ZONE",
-          "slug": "a-level-english-literature-download-zone"
         },
         {
           "name": "Dr Jekyll and Mr Hyde (Robert Louis Stevenson)",
@@ -642,10 +622,6 @@
         {
           "name": "Coastal Environments",
           "slug": "a-level-geography-revision-coastal-environments"
-        },
-        {
-          "name": "DOWNLOAD Zone",
-          "slug": "a-level-geography-revision-download-zone"
         },
         {
           "name": "Different types of questions in Geography examinations",
@@ -976,10 +952,6 @@
           "slug": "a-level-physical-education-revision-arousal"
         },
         {
-          "name": "DOWNLOAD Zone",
-          "slug": "a-level-physical-education-revision-download-zone"
-        },
-        {
           "name": "Deviance in Sport (Coakley)",
           "slug": "a-level-physical-education-revision-deviance-in-sport-coakley"
         },
@@ -1026,10 +998,6 @@
         {
           "name": "Current Electricity",
           "slug": "a-level-physics-revision-current-electricity"
-        },
-        {
-          "name": "DOWNLOAD Zone",
-          "slug": "a-level-physics-revision-download-zone"
         },
         {
           "name": "Elastic Properties of Solids",
@@ -1204,10 +1172,6 @@
           "slug": "a-level-psychology-revision-attachment"
         },
         {
-          "name": "DOWNLOAD Zone",
-          "slug": "a-level-psychology-revision-download-zone"
-        },
-        {
           "name": "Forensic Psychology",
           "slug": "a-level-psychology-revision-forensic-psychology"
         },
@@ -1255,10 +1219,6 @@
     },
     "Subtopics": {
       "Religious Studies (RS) A-Level Revision": [
-        {
-          "name": "DOWNLOAD Zone",
-          "slug": "a-level-religious-studies-rs-revision-download-zone"
-        },
         {
           "name": "Ethics",
           "slug": "a-level-religious-studies-rs-revision-ethics"

@@ -6,7 +6,7 @@ import { createObjectCsvWriter } from 'csv-writer';
 
 dotenv.config();
 
-//process.env.OPENAI_API_KEY = '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';
+process.env.OPENAI_API_KEY = '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';
 
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 
@@ -17,11 +17,13 @@ if (!OPENAI_API_KEY) {
 const openai = new OpenAI({ apiKey: OPENAI_API_KEY });
 
 const getDescriptionPrompt = (title, groupName) => `
-Generate a concise description for the following subject:
-Title: ${title}
-Group: ${groupName}
-The description should be informative and highlight the key aspects of the subject within its group. Keep it under 200 characters.
+For the subject titled "${title}" in group "${groupName}", provide key details focusing on:
+1. The number of subtopics.
+2. The number of questions or assessments.
+3. Any specific numerical data related to performance metrics or exam structure.
+Limit the response to factual numeric details without general descriptions.
 `;
+
 
 const generateDescription = async (title, groupName) => {
   try {
@@ -50,9 +52,9 @@ const processCSV = async (inputFile, outputFile) => {
           if (row.title && row.group_name) {
             try {
               row.description = await generateDescription(row.title, row.group_name);
-              console.log(`Generated description for ${row.title}: ${row.description}`);
+              console.log(`Generated numeric details for ${row.title}: ${row.description}`);
             } catch (error) {
-              console.error(`Failed to generate description for ${row.title}:`, error);
+              console.error(`Failed to generate numeric details for ${row.title}:`, error);
             }
           }
         }
@@ -64,7 +66,7 @@ const processCSV = async (inputFile, outputFile) => {
 
         try {
           await csvWriter.writeRecords(results);
-          console.log('CSV file has been updated with descriptions.');
+          console.log('CSV file has been updated with numeric details.');
           resolve();
         } catch (error) {
           console.error('Error writing to CSV:', error);
